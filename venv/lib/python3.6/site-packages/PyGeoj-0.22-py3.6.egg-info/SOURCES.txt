@@ -1,0 +1,8 @@
+README.rst
+pygeoj.py
+setup.cfg
+setup.py
+PyGeoj.egg-info/PKG-INFO
+PyGeoj.egg-info/SOURCES.txt
+PyGeoj.egg-info/dependency_links.txt
+PyGeoj.egg-info/top_level.txt

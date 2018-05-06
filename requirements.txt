@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+shapely
+mysqlclient
+watson-developer-cloud
+geocoder

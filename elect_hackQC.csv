@@ -1,0 +1,946 @@
+	Name	Notes	FullAddress	City	Province	PostalCode	lat	long
+0	Bureau en Gros; Longueuil	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	2790 ch. Chambly	Longueuil	Quebec	J4L 1M9	43.8503835	-79.3902855
+1	Bureau en Gros; Dix30	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	9750 boul. Leduc bureau 35	Brossard	Quebec	J4Y 0B3	45.5207468	-73.4622983
+2	Bureau en Gros; Greenfield-Park	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	3344 boul. Taschereau bureau C6	Longueuil	Quebec	J4V 2H7	45.4399798	-73.4366654
+3	Bureau en Gros; Saint-Hyacinthe	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	5970 rue Martineau	Saint-Hyacinthe	Quebec	J2R 2H6	45.4921754	-73.480287
+4	Bureau en Gros; Saint-Bruno	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1465 boul. Saint-Bruno	Saint-Bruno-de-Montarville	Quebec	J3V 6J1	45.6399055	-72.9787383
+5	Bureau en Gros; Sorel	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	450 boul. Poliquin bureau 5004	Sorel-Tracy	Quebec	J3P 7R5	45.5095124	-73.3816766
+6	Bureau en Gros; Drummondville	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	565 boul. Saint-Joseph	Drummondville	Quebec	J2C 2B6	46.0232721	-73.1036966
+7	Bureau en Gros; Victoriaville	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1111 boul. Jutras Est	Victoriaville	Quebec	G6S 1C1	45.8924808	-72.517057
+8	Bureau en Gros; St-Georges	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	8585 boul. Lacroix	Saint-Georges	Quebec	G5Y 5L6	46.059653	-71.9267684
+9	Bureau en Gros; Rimouski	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	390 Montée Industrielle	Rimouski	Quebec	G5M 1X1	46.1338968	-70.6988585
+10	Bureau en Gros; Rivière-du-Loup	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	250 boul. de L'Hôtel-de-Ville	Rivière-du-Loup	Quebec	G5R 1M4	48.4564237	-68.4944344
+11	Bureau en Gros; Alma	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	705 av. du Pont Nord bureau 5050	Alma	Quebec	G8B 6T5	47.8262937	-69.5521703
+12	Bureau en Gros; Jonquière	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	3460 boul. Saint-François	Saguenay	Quebec	G7X 8L3	48.5621728	-71.6390256
+13	Bureau en Gros; Chicoutimi	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1470 boul. Talbot	Saguenay	Quebec	G7H 4C2	 None	 None
+14	Écocentre Rimouski		835 ch. Victor-Gauvin	Rimouski	Quebec	G5L 8Y9	 None	 None
+15	Bureau en Gros; Gatineau	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	235 montée Paiement	Gatineau	Quebec	J8P 6M7	48.4086161	-68.5719253
+16	Bureau en Gros; Hull	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	35 boul. du Plateau bureau 55A	Gatineau	Quebec	J9A 3G1	45.4830663	-75.6771127
+17	Écocentre Rose-Cohen		365 rue Pépin	Sherbrooke	Quebec	J1L 2Y8	45.435912	-75.7707045
+18	Écocentre Michel-Ledoux		1000 rue Léon-Trépanier	Sherbrooke	Quebec	J1G 5B8	45.4009455	-71.9686352
+19	Écocentre Jean-Talon (Matrec)		1700 boul. Jean Talon Ouest	Québec	Quebec	G2K 2L8	45.3937612	-71.86118
+20	Écocentre La Petite-Patrie	ICI: Quantité limité à 1 mètre cube par jour	1100 rue des Carrières	Montréal	Quebec	H2S 2A8	46.8652087	-71.3030291
+21	Bureau en Gros; Beauport	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	843 rue Clémanceau	Québec	Quebec	G1C 2K6	45.5343183	-73.5918529
+22	Bureau en Gros; Cap-de-la-Madeleine	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	400 rue Barkoff	Trois-Rivières	Quebec	G8T 9P5	46.8679977	-71.2088795
+23	Bureau en Gros; Shawinigan	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1 rue la Plaza-de-Maurice	Shawinigan	Quebec	G9N 7C1	46.3746477	-72.5558756
+24	Bureau en Gros; Trois-Rivières	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	4000 boul. des Récollets	Trois-Rivières	Quebec	G9A 6K9	46.5623334	-72.7405519
+25	Bureau en Gros; Place Versailles	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	7275 rue Sherbrooke Est bureau 316	Montréal	Quebec	H1N 1E9	 None	 None
+26	Bureau en Gros; Anjou	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	11250 rue Renaude-Lapointe	Montréal	Quebec	H1J 2V7	 None	 None
+27	Bureau en Gros; Notre Dame	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	770 rue Notre-Dame Ouest	Montréal	Quebec	H3C 1J2	45.6122154	-73.5975532
+28	Bureau en Gros; Jean-Talon	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	4625 rue Jean-Talon Est	Montréal	Quebec	H1S 1K3	45.498992	-73.5604773
+29	Bureau en Gros; TMR (Ville Mont-Royal)	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	4205 rue Jean-Talon Ouest	Montréal	Quebec	H4P 2T6	45.5723514	-73.588028
+30	Bureau en Gros; Châteauguay	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	160 boul. d'Anjou	Châteauguay	Quebec	J6K 1C4	45.5003888	-73.6479269
+31	Bureau en Gros; Saint-Jean	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1000 boul. du Séminaire	Saint-Jean-sur-Richelieu	Quebec	J3A 1E5	45.3590851	-73.7293831
+32	Bureau en Gros; Candiac	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	40 rue de Strasbourg	Candiac	Quebec	J5R 0B4	45.3362524	-73.269864
+33	Bureau en Gros; Beloeil	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	100 rue Serge-Pépin	Beloeil	Quebec	J3G 0K1	45.3692892	-73.5180733
+34	Bureau en Gros; Sherbrooke	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	3325 boul. Portland	Sherbrooke	Quebec	J1L 2P1	45.5918224	-73.1946296
+35	Bureau en Gros; Magog	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1700 rue Sherbrooke bureau 117	Magog	Quebec	J1X 5B4	45.404029	-71.9571409
+36	Bureau en Gros; Granby	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	921 rue Principale	Granby	Quebec	J2G 2Z5	 None	 None
+37	Bureau en Gros; Vaudreuil	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	46 boul. de la Cité des Jeunes bureau 100	Vaudreuil-Dorion	Quebec	J7V 9L5	45.4156145	-72.7542973
+38	Bureau en Gros; Atwater	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	4036 rue Sainte-Catherine Ouest	Westmount	Quebec	H3Z 1P2	45.4087925	-74.0374873
+39	Bureau en Gros; Saint-Laurent	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	3660 boul. De La Côte-Vertu	Montréal	Quebec	H4R 1P8	45.4880719	-73.5856833
+40	Bureau en Gros; Pointe-Claire	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	365 boul. Brunswick	Pointe-Claire	Quebec	H9R 4S1	45.4931486	-73.7084228
+41	Bureau en Gros; Lasalle	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	7097 boul. Newman	Montréal	Quebec	H8N 1X1	45.4647783	-73.8364584
+42	Bureau en Gros; Des Sources	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	3165 boul. Des Sources	Dorval	Quebec	H9B 1Z6	 None	 None
+43	Bureau en Gros; île-Perrot	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	475 Grand Boulevard	L'île-Perrot	Quebec	J7V 4X4	 None	 None
+44	Bureau en Gros; Mtl-Sherbrooke	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	5157 rue Sherbrooke Ouest	Montréal	Quebec	H4A 1T5	 None	 None
+45	Bureau en Gros; Marché Central	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1041 rue du Marché Central	Montréal	Quebec	H4N 1J8	45.4758541	-73.6075041
+46	Bureau en Gros; Valleyfield	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1560 boul. Monseigneur Langlois	Salaberry-de-Valleyfield	Quebec	J6S 1E3	45.5343782	-73.6575441
+47	Bureau en Gros; Boucherville	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	582 ch. de Touraine bureau 301	Boucherville	Quebec	J4B 8S5	45.270638	-74.1288828
+48	Écocentre de Trois-Rivières	ICI sur rendez-vous seulement	2455 rue Charbonneau	Trois-Rivières	Quebec	G9A 5C9	45.5727667	-73.4037551
+49	Écocentre Région du Lac-Mégantic		5138 rue Pie-XI	Lac-Mégantic	Quebec	G6B 2S3	46.32184	-72.5982525
+50	Écocentre de Magog		2300 rue Tanguay	Magog	Quebec	J1X 5Y5	45.5994683	-70.8787557
+51	Écocentre de Senneterre		740 ch. du Parc-Industriel	Senneterre	Quebec	J0Y 2M0	45.2790317	-72.1210582
+52	Écocentre de Val-d'Or		2001 3e Avenue Est	Val-d'Or	Quebec	J9P 7B4	48.3787803	-77.160973
+53	Écocentre de Malartic		555 ch. du lac Mourier	Malartic	Quebec	J0Y 1Z0	48.093459	-77.872668
+54	Écocentre de Neuville		1310 ch. Du Site	Neuville	Quebec	G0A 2R0	48.1129979	-78.1414464
+55	Écocentre de Rivière-du-Loup		100 rue Delage	Rivière-du-Loup	Quebec	G5R 3P9	 None	 None
+56	Écocentre de Saint-Alexandre		619 rte 289	Saint-Alexandre-de-Kamouraska	Quebec	G0L 2G0	 None	 None
+57	Écocentre Chicoutimi Secteur Nord		2932 rue Vimy	Saguenay	Quebec	G7G 3N6	 None	 None
+58	Récupération des Basques		2 rte à C?ur	Trois-Pistoles	Quebec	G0L 4K0	 None	 None
+59	Bureau en Gros; Rouyn-Noranda	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	100 rue du Terminus Ouest	Rouyn-Noranda	Quebec	J9X 6H7	 None	 None
+60	Bureau en Gros; Sept-îles	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	649 boul. Laure	Sept-îles	Quebec	G4R 1X8	 None	 None
+61	Bureau en Gros; Lachenaie	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	590 montée des Pionniers	Terrebonne	Quebec	J6V 1N9	 None	 None
+62	Bureau en Gros; Mascouche	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	145 montée Masson	Mascouche	Quebec	J7K 3B4	 None	 None
+63	Bureau en Gros; Ste-Agathe-des-Monts	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1190 rue Principale	Sainte-Agathe-des-Monts	Quebec	J8C 1L8	 None	 None
+64	Bureau en Gros; Joliette	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	845 boul. Firestone	Joliette	Quebec	J6E 2W4	 None	 None
+65	Bureau en Gros; 19oe40	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	4440 boul. Robert-Bourassa	Laval	Quebec	H7E 0B8	 None	 None
+66	Bureau en Gros; Boisbriand	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	3420 av. des Grandes-Tourelles	Boisbriand	Quebec	J7H 0A2	45.6111005	-73.6875618
+67	Bureau en Gros; St-Eustache	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	660 boul. Arthur Sauvé	Saint-Eustache	Quebec	J7R 1E3	45.6301554	-73.8465907
+68	Bureau en Gros; Saint-Jérôme	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1135 rue Jean-Baptiste-Rolland Ouest	Saint-Jérôme	Quebec	J7Y 4Y7	45.5772613	-73.9205762
+69	Bureau en Gros; Rosemère	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	315 boul. Curé-Labelle	Rosemère	Quebec	J7A 2H7	45.7690464	-74.0185846
+70	Bureau en Gros; Ste-Dorothée	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1000 aut. Chomedey	Laval	Quebec	H7X 3S9	45.6294182	-73.8129465
+71	Bureau en Gros; Centre Laval	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1600 boul. Le Corbusier	Laval	Quebec	H7S 1Y9	45.5299074	-73.7846283
+72	Bureau en Gros; Neufchatel	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	4605 boul. de L'Auvergne #102	Québec	Quebec	G2C 1H7	45.5617576	-73.732182
+73	Bureau en Gros; Sainte-Foy 2	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1510 av. Jules-Verne	Québec	Quebec	G2G 2R5	46.8237914	-71.3576114
+74	Bureau en Gros; Charest	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	1400 rue Cyrille-Duquet	Québec	Quebec	G1N 2E5	46.781015	-71.3466871
+75	Bureau en Gros; Lévis	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	80 rte du Président-Kennedy	Lévis	Quebec	G6V 6C9	46.7990663	-71.2617012
+76	Bureau en Gros; Sainte-Foy	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	2975 boul. Laurier	Québec	Quebec	G1V 2M2	46.791237	-71.1731212
+77	Bureau en Gros; Québec City	Note : Ce point de dépôt accepte les téléviseurs mesurant jusqu'à 32 po.	565 boul. Lebourgneuf	Québec	Quebec	G2J 1R9	46.764855	-71.2917163
+78	Bureau municipal Forestville		1 2e Avenue	Forestville	Quebec	G0T 1E0	46.8441177	-71.2771279
+79	Bureau municipal Colombier		568 rue Principale	Colombier	Quebec	G0H 1P0	48.7385495	-69.0767629
+80	Écocentre Acadie	ICI: Quantité limité à 1 mètre cube par jour	1200 boul. Henri-Bourassa Ouest	Montréal	Quebec	H3M 3G1	48.8726596	-68.8465151
+81	Écocentre Côte-des-Neiges	ICI: Quantité limité à 1 mètre cube par jour	6925 ch. de la Côte-des-Neiges	Montréal	Quebec	H3S 2B6	45.5398039	-73.676426
+82	Écocentre Rivière-des-Prairies	ICI: Quantité limité à 1 mètre cube par jour	11400 rue Léopold-Christin	Montréal	Quebec	H1E 7R3	45.505244	-73.638851
+83	Écocentre St-Michel	ICI: Quantité limité à 1 mètre cube par jour	2475 rue des Regrattiers (anciennement rue Michel-Jurdant	Montréal	Quebec	H1Z 4N1	45.6398354	-73.560849
+84	Écocentre de Lévis	Seuls les produits électroniques des citoyens de Lévis sont acceptés dans cet écocentre.	3443 rue de Vulcain	Lévis	Quebec	G6W 0K8	45.557963	-73.6211189
+85	Écocentre du secteur Chicoutimi (Sud)		3333 boul. Talbot	Saguenay	Quebec	G7H 5B1	46.7510829	-71.1773213
+86	Écocentre de Jonquière		2330 rue de la Métallurgie	Saguenay	Quebec	G7X 0B7	48.3459758	-71.1075889
+87	Écocentre de La Baie		223 rue Joseph-Gagné Sud La Baie	Saguenay	Quebec	G7B 3P6	48.4084564	-71.2298518
+88	Garage municipal de Tadoussac		696 rte 138	Tadoussac	Quebec	G0T 2A0	48.3292884	-70.8981549
+89	Garage municipal de Sacré-C?ur		rte 172	Sacré-Coeur	Quebec	G0T 1Y0	48.1214121	-69.7178392
+90	Récupéraction Centre du Québec		5620 rue Saint-Roch	Drummondville	Quebec	J2B 6V4	48.2453158	-69.8238589
+91	Garage municipal de Terrebonne	Citoyens de Terrebonne seulement. Sur rendez-vous seulement.	1051 rue Nationale	Terrebonne	Quebec	J6W 6B5	 None	 None
+92	Écocentre régional du Val-Saint-François		666 ch. Keenan	Saint-François-Xavier-de-Brompton	Quebec	J0B 2V0	45.7097847	-73.6217028
+93	Écocentre Marguerite-D'Youville- secteur nord		4111 rte Marie-Victorin	Contrecoeur	Quebec	J0L 1C0	45.6058165	-72.0872624
+94	Écocentre Marguerite-D'Youville- secteur sud		1975 ch. de l'énergie	Varennes	Quebec	J3X 1P7	45.8454724	-73.2521484
+95	Écocentre St-Flavien		1450 rang Pointe-du-Jour	Saint-Flavien	Quebec	G0S 2M0	 None	 None
+96	Écocentre Isle-aux-Coudres		51 ch. de la Traverse	L'Isle-aux-Coudres	Quebec	G0A 3J0	46.562884	-71.548323
+97	Écocentre Saint-Sauveur		2135 ch. Jean-Adam (rte 364)	Saint-Sauveur	Quebec	J0R 1R2	 None	 None
+98	Écocentre Baie-St-Paul		74 rang Saint-Placide Sud	Baie-Saint-Paul	Quebec	G3Z 3A9	45.8945364	-74.1997295
+99	Écocentre St-Urbain		7 rue du Parc Industriel	Saint-Urbain	Quebec	G0A 4K0	47.3928751	-70.6504376
+100	Compo-Haut-Richelieu; Lacolle		8 rue du Parc-Industriel	Lacolle	Quebec	J0J 1J0	47.5329663	-70.5258432
+101	Compo-Haut-Richelieu; Iberville (Citoyen)		825 rue Lucien-Beaudin	Saint-Jean-sur-Richelieu	Quebec	J2X 5L2	45.0735402	-73.3683124
+102	Compo-Haut-Richelieu; St-Luc		950 rue Gaudette	Saint-Jean-sur-Richelieu	Quebec	J2W 3G1	45.3029061	-73.2142328
+103	Écocentre Sainte-Sophie	Saisonnier	2535  1re rue	Sainte-Sophie	Quebec	J5J 2R7	45.3225323	-73.2976268
+104	Écocentre Prévost	Saisonnier	1144 rue Doucet	Prévost	Quebec	J5L 2S2	45.7854932	-73.9058792
+105	Écocentre Saint-Colomban	Saisonnier	355 montée de l'Église	Saint-Colomban	Quebec	J5K 2J1	45.8666646	-74.0703279
+106	Écocentre Saint-Hippolyte	Saisonnier	2056 ch. des hauteurs	Saint-Hippolyte	Quebec	J8A 1A1	45.741142	-74.139034
+107	Écocentre Saint-Jérôme	Saisonnier	301 rue Lajeunesse Ouest	Saint-Jérôme	Quebec	J7Y 3P2	45.922856	-74.016438
+108	Écocentre Secteur de Sainte-Scholastique	Résidents seulement	9825 rue Saint-Vincent	Mirabel	Quebec	J7N 2Y5	 None	 None
+109	Régie intermunicipale du comté de Beauce-Sud		695 rang Saint-Joseph	Saint-Côme-Linière	Quebec	G0M 1J0	45.6490269	-74.095033
+110	Écocentre de Beauceville (Matrec)		184 181e rue	Beauceville	Quebec	G5X 2S8	46.0937406	-70.562358
+111	Écocentre de Shawinigan	ICI sur rendez-vous seulement	2132 av. de la Transmission	Shawinigan	Quebec	G9N 8N8	46.2264548	-70.7859174
+112	Garage municipal de Saint-Jean-Port-Joli	Ouvert avril à novembre	389 rte de l'Église	Saint-Jean-Port-Joli	Quebec	GOR 3G0	 None	 None
+113	Écocentre Val-Bélair		1472 rue Jean-Bardot	Québec	Quebec	G3J 1R3	47.2157036	-70.2697191
+114	Écocentre Hûtrière		3381 rue de l'Hûtrière	Québec	Quebec	G3A 0M2	 None	 None
+115	Écocentre Beauport		425 boul. Raymond	Québec	Quebec	G1C 5B4	 None	 None
+116	Garage municipal de Les Bergeronnes		424 rue de la Mer	Les Bergeronnes	Quebec	G0T 1G0	46.8836789	-71.1819071
+117	Garage municipal de Les Escoumins		2 rue Sirois	Les Escoumins	Quebec	G0T 1K0	48.2426146	-69.5454677
+118	Bureau municipal Longue-Rive		3 rue de l?Église	Longue-Rive	Quebec	G0T 1Z0	 None	 None
+119	Garage municipal de Portneuf-sur-Mer		170 rue Principale	Portneuf-sur-Mer	Quebec	G0T 1P0	48.566527	-69.2347459
+120	Écocentre Secteur de Saint-Augustin	Résidents seulement	15020 rue Louis-M.-Taillon	Mirabel	Quebec	J7N 2K4	48.618166	-69.101062
+121	Écocentre Secteur de Saint-Canut	Résidents seulement	6000 rte Sir-Wilfrid-Laurier	Mirabel	Quebec	J7N 2Z8	45.6365343	-73.9860347
+122	Écocentre Secteur de Saint-Janvier	Résidents seulement	14645 rue Joseph-Marc-Vermette	Mirabel	Quebec	J7J 1X2	45.7058415	-74.0790805
+123	Écocentre La Mitis		428 ch. Perreault Est	Sainte-Flavie	Quebec	G0J 2L0	45.715321	-73.938505
+124	Écocentre Ville de Beaupré		10 rue Industrielle	Beaupré	Quebec	G0A 1E0	48.6094427	-68.1824121
+125	Écocentre Saint-Édouard-de-Fabre		641 rte 391	Saint-Édouard-de-Fabre	Quebec	J0Z 1Z0	47.0409005	-70.8886699
+126	Écocentre Waterloo		6550 rue Foster	Waterloo	Quebec	J0E 2N0	47.199652	-79.366541
+127	Écocentre Havre-Saint-Pierre		895 rue Ilménite	Havre-Saint-Pierre	Quebec	G0G 1P0	45.3571113	-72.5131928
+128	Écocentre de Natashquan		300 rte 138	Natashquan	Quebec	G0G 2E0	50.2518315	-63.6089485
+129	Écocentre Alma		3521 av.du Pont Nord	Alma	Quebec	G8B 1S5	50.1544036	-61.6861515
+130	Écocentre Hébertville		100rue Jean-Félix Langlais	Hébertville	Quebec	G0W 1T0	 None	 None
+131	Écocentre Saint-Ludger-de-Milot		ch. de l?Écocentre	Saint-Ludger-de-Milot	Quebec	G0W 2B0	48.4380394	-71.6880994
+132	Écocentre Saint-Félicien		1800 rue Verreault	Saint-Félicien	Quebec	G8K 1W2	 None	 None
+133	Écocentre Saint-François-de-Sales		93 rue Bouchard	Saint-François-de-Sales	Quebec	G0W 2B0	48.6396218	-72.4528543
+134	Écocentre Dolbeau-Mistassini		1001 2e Avenue	Dolbeau-Mistassini	Quebec	G8L 1V3	48.3294291	-72.1570537
+135	Écocentre Normandin		1177 rue Lydoric Doucet	Normandin	Quebec	G8M 3Y2	48.8665929	-72.2420587
+136	Centre de services d'Aylmer		115 rue Principale	Gatineau	Quebec	J9H 3M2	 None	 None
+137	Écocentre Carrière		860 boul. de la Carrière	Gatineau	Quebec	J8Y 6S6	 None	 None
+138	Écocentre Louiseville		760 av. Deveault	Louiseville	Quebec	J5V 3C2	 None	 None
+139	Écocentre de Champlain		295 rte Sainte-Marie	Champlain	Quebec	G0X 1C0	 None	 None
+140	Écocentre Saint-Étienne-des-Grés		440 boul. la Gabelle	Saint-Étienne-des-Grès	Quebec	G0X 2P0	46.4777056	-72.3247178
+141	Écocentre Granby		1080 rue André-Liné	Granby	Quebec	J2J 1J9	 None	 None
+142	Écocentre Saint-Patrice-de-Beaurivage		rue du Parc	Saint-Patrice-de-Beaurivage	Quebec	G0S 1B0	45.3830446	-72.7761101
+143	Hôtel de ville de Saint-Pamphile		3 rue Elgin Sud	Saint-Pamphile	Quebec	G0R 3X0	46.4072459	-71.2421429
+144	Garage municipal de L'Islet		451 rue Nilus-Leclerc	L'Islet	Quebec	G0R 1X0	46.9605477	-69.7776528
+145	Écocentre de Matane		330 rue Yves-Bérubé	Matane	Quebec	G4W 3M6	 None	 None
+146	Écocentre Saint-Raymond		590 ch. Bourg-Louis	Saint-Raymond	Quebec	G3L 4G2	48.8253534	-67.5852737
+147	Écocentre St-Alban		180 rte 354	Saint-Alban	Quebec	G0A 3B0	46.876465	-71.789803
+148	Garage municipal de St-Césaire		110 rte 112	Saint-Césaire	Quebec	J0L 1P0	46.7165816	-72.0785725
+149	Garage municipal de St-Mathias		25 rue du Centre Sportif	Saint-Mathias-sur-Richelieu	Quebec	J3L 6C6	45.4213488	-73.0354507
+150	Ressourcerie Bellechasse		491 rte 277	Saint-Léon-de-Standon	Quebec	G0R 4L0	45.4865334	-73.2593771
+151	Ressourcerie du Granit		2969 rue Laval	Nantes	Quebec	G6B 1A2	46.4685273	-70.6327235
+152	Ressourcerie des Frontières		177 de la rue Cutting	Coaticook	Quebec	J1A 2G2	 None	 None
+153	Bureau municipal Saint-Albert		1245 rue Principale	Saint-Albert	Quebec	J0A 1E0	 None	 None
+154	Écocentre régional de la Nouvelle-Beauce; Sainte-Marie		1690 boul. Vachon Nord	Sainte-Marie	Quebec	G6E 3E9	46.0009667	-72.0886551
+155	Écocentre régional de la Nouvelle-Beauce; Frampton		10 rte Boulet	Frampton	Quebec	G0R 1M0	46.4697874	-71.0458973
+156	Écocentre de Saint-Pascal		236 av. du Parc	Saint-Pascal	Quebec	G0L 3Y0	46.3711096	-70.7666121
+157	Écocentre des îles-de-la-Madeleine		1300 rte 199	Les îles-de-la-Madeleine	Quebec	G4T 5B5	47.5285669	-69.8264491
+158	Écocentre Secteur Témiscouata-sur-le-Lac- quartier Cabano		53 rue 232 Est	Témiscouata-sur-le-Lac	Quebec	G0L 1E0	47.445707	-61.748915
+159	Écocentre Longue-Pointe-de-Mingan		800 ch. du Roi	Longue-Pointe-de-Mingan	Quebec	G0G 1V0	47.6939724	-68.9069531
+160	Écocentre du Secteur Squatec		90 rue 295 Nord	Saint-Michel-du-Squatec	Quebec	G5T 1V7	50.26569	-64.1462606
+161	Écocentre Secteur Pohénégamook		480 rue du Parc industriel	Pohénégamook	Quebec	G0L 1J0	47.8813475	-68.7199314
+162	Écocentre Secteur Dégelis		297 rte 295	Dégelis	Quebec	G5T 1V7	47.4592321	-69.1674489
+163	Écocentre Saint-Ignace-de-Loyola		25 rue Laforest	Saint-Ignace-de-Loyola	Quebec	J0K 2P0	47.5892267	-68.8088156
+164	Garage municipal Sainte-Geneviève-de-Berthier		400 rang de la Rivière Bayonne Sud	Sainte-Geneviève-de-Berthier	Quebec	J0K 1A0	46.0659817	-73.1310445
+165	Écoparc de la MRC de L'Assomption		134 ch. des Commissaires	L'Assomption	Quebec	J5W 3P3	46.090373	-73.2048282
+166	LET de Saint-Alphonse		222  5e Rang Est	Saint-Alphonse	Quebec	G0C 2V0	45.8324195	-73.4450913
+167	Écocentre de La Vallée-de-la-Gatineau		161 rue du Parc Industriel	Maniwaki	Quebec	J9E 3P3	48.158494	-65.660808
+168	Écocentre de la Rivière-Rouge	Ouvert du lundi au vendredi 8 h 30 à 17 h	688 ch. du Parc Industriel	Rivière-Rouge	Quebec	J0T 1T0	46.3935164	-75.9883038
+169	Écocentre de Saint-Siméon		368 rue Bergeron	Saint-Siméon	Quebec	G0T 1X0	46.3219371	-74.8001066
+170	Écocentre de Clermont		119 ch. Snigole	Clermont	Quebec	G4A 1B1	 None	 None
+171	Écocentre de La Malbaie		1200 boul. Kane	La Malbaie	Quebec	G5A 1W8	47.739192	-70.275859
+172	Écocentre de Sainte-Agathe-des-Monts		1710 rue Principale Est	Sainte-Agathe-des-Monts	Quebec	J8C 1M2	47.6515732	-70.1609239
+173	Écocentre de matériaux secs de Tremblant		60 ch. Bréboeuf	Mont-Tremblant	Quebec	J8E 3A9	46.0411358	-74.2493954
+174	Écocentre RIDL		1064 rue industrielle	Mont-Laurier	Quebec	J9L 3V6	46.1140516	-74.6068668
+175	Écocentre régional de Portneuf-sur-Mer		rte 138 (24 km à l?est de la rivière Portneuf)	Portneuf-sur-Mer	Quebec	G0T 1P0	46.5407241	-75.4816164
+176	Centre de valorisation des matières résiduelles		15 boul. Industriel	La Sarre	Quebec	J9Z 2X2	48.6462312	-69.1073469
+177	RIGMRBM (Régie intermunicipale de gestion des matières résiduelles de Brome-Missisquoi)		2500 rang Saint-Joseph	Brigham	Quebec	J2K 3G6	48.7813623	-79.1704186
+178	Écocentre Blanc-Sablon	Commune Lourdes-de-Blanc-Sablon	1149 boul. Dr. Camille Marcoux	Blanc-Sablon	Quebec	G0G 1W0	45.1896517	-72.7998186
+179	Ressource de Réinsertion le Phare		99 boul. du Portage des Mousses	Port-Cartier	Quebec	G5B 1C9	51.415391	-57.1903767
+180	Écocentre Saint-Just-de-Bretenières		 rang Sainte-Anne	Saint-Just-de-Bretenières	Quebec	G0H 3H0	50.0339792	-66.8480156
+181	Écocentre Saint-François-de-la-Rivière-du-Sud		35 ch. Saint-François Est	Saint-François-de-la-Rivière-du-Sud	Quebec	G0R 3A0	46.5700889	-70.0887994
+182	Garage municipal Saint-Pierre-de-la-Rivière-du-Sud		450 rue Principale	Saint-Pierre-de-la-Rivière-du-Sud	Quebec	G0R 4B0	46.9020105	-70.6927882
+183	Écocentre Notre-Dame-du-Rosaire		28 rue Saint-Thomas	Notre-Dame-du-Rosaire	Quebec	G0R 2H0	46.9186197	-70.6321837
+184	Bureau municipal Sainte-Euphémie-sur-Rivière-du-Sud		220 rue Principale Est	Sainte-Euphémie-sur-Rivière-du-Sud	Quebec	G0R 2Z0	46.8259367	-70.389551
+185	Écocentre Sainte-Apolline-de-Patton		499 rue Principale	Sainte-Apolline-de-Patton	Quebec	G0R 2P0	46.7760009	-70.4369529
+186	Écocentre Cap-Saint-Ignace		850 du Souvenir	Cap-Saint-Ignace	Quebec	G0R 1H0	 None	 None
+187	Écocentre Sainte-Lucie-de-Beauregard		Garage municipal rue de l'Église	Sainte-Lucie-de-Beauregard	Quebec	G0R 3L0	47.0315956	-70.4412894
+188	Écocentre Saint-Fabien-de-Panet		73 rte 283	Saint-Fabien-de-Panet	Quebec	G0R 2J0	46.7401448	-70.0242305
+189	Écocentre Saint-Paul-de-Montminy		294 rte 216	Saint-Paul-de-Montminy	Quebec	G0R 3Y0	46.6559877	-70.1469525
+190	Écocentre Lac-Frontière	En arrière du bureau municipal	22 rue de l'Église	Lac-Frontière	Quebec	G0R 1T0	46.7288435	-70.3622096
+191	ORAPÉ		1570 rue Rousseau	Plessisville	Quebec	G6L 2V1	46.6957158	-70.003101
+192	Écocentre Saint-Eustache		695 25e Avenue	Saint-Eustache	Quebec	J7P 0B4	 None	 None
+193	Écocentre satellite de Godbout		122 rue Saint-Régis	Godbout	Quebec	G0H 1G0	45.578439	-73.8772618
+194	Écocentre Berthier-sur-Mer		14 rte de Saint-François	Berthier-sur-Mer	Quebec	G0R 1E0	49.3248342	-67.5970185
+195	Garage municipal de Grande-Vallée		21 rue Minville	Grande-Vallée	Quebec	G0E 1K0	46.9223829	-70.7282944
+196	Déchetterie de Cloridorme		24 rte de la Colonie	Cloridorme	Quebec	G0E 1G0	49.2217037	-65.1333351
+197	Écocentre Robertsonville		3626 boul. Frontenac Est	Thetford Mines	Quebec	G6G 4G2	 None	 None
+198	Garage municipal de Murdochville		389 av. Miller	Murdochville	Quebec	G0E 1W0	46.1200189	-71.2581765
+199	LET de Gaspé		1050 montée de Wakeham	Gaspé	Quebec	G4X 2A5	48.9512839	-65.4948045
+200	Déchetterie de Percé		50 ch. Lemieux	Percé	Quebec	G0C 3G0	48.8251654	-64.4960662
+201	Écocentre Val-des-Monts		28 ch. de la Pûche	Val-des-Monts	Quebec	J8N 4A6	48.4835075	-64.3080316
+202	Écocentre de  Duhamel	2017 : ouvert du 6 mai au 28 octobre	3605 ch. du Lac Gagnon Est	Duhamel	Quebec	J0V 1G0	45.6305821	-75.8166189
+203	Déchetterie de Gascon		232 rte Morin Nord	Port-Daniel--Gascons	Quebec	G0C 1P0	46.0564146	-75.0882267
+204	Déchetterie de Grande-Rivière		785 rue Saint-Pierre	Grande-Rivière	Quebec	G0C 1V0	48.2056803	-64.8961064
+205	Garage municipal de Saint-Cyprien		121 rang Cyr	Saint-Cyprien-de-Napierville	Quebec	J0J 1L0	48.3952803	-64.5889684
+206	Conciergerie Kaminunakutat		1 rue du centre	Essipit	Quebec	G0T 1K0	45.186032	-73.425814
+207	Garage municipal Kingsey Falls		57 boul. Kingsey	Kingsey Falls	Quebec	J0A 1B0	48.3424651	-69.4006458
+208	Écocentre d'Asbestos		404 rue du Roi	Asbestos	Quebec	J1T 4T1	45.8556922	-72.0631056
+209	Écocentre des Rivières		1700 rue Provinciale	Québec	Quebec	G1N 4A2	45.7796722	-71.9264441
+210	Écocentre Aston-Jonction		1310 rue Principale	Aston-Jonction	Quebec	G0Z 1A0	46.8018102	-71.2721024
+211	Écocentre Baie-du-Fèbvre		298 rue Marie-Victorin	Baie-du-Febvre	Quebec	J0G 1A0	 None	 None
+212	Bureau municipal de Manseau		200 rue Roux	Manseau	Quebec	G0X 1V0	46.1375475	-72.721595
+213	Bureau municipal Sainte-Cécile-de-Lévrard		235 rue Principale	Sainte-Cécile-de-Lévrard	Quebec	G0X 2M0	46.3662581	-72.0028105
+214	Écocentre Sainte-Eulalie		759 rue des Bouleaux	Sainte-Eulalie	Quebec	G0Z 1G0	46.466797	-72.161467
+215	Best Buy; Chicoutimi		1401 boul. Talbot	Saguenay	Quebec	G7H 4C1	46.1142583	-72.2525942
+216	Best Buy; Montréal Centreville		470 rue Sainte-Catherine Ouest	Montréal	Quebec	H3B 1A7	48.4059213	-71.0545418
+217	Best Buy; Galeries d'Anjou		7400 boul. des Roseraies	Montréal	Quebec	H1M 3X8	45.504739	-73.5679446
+218	Best Buy; Centre Laval		1560 boul. Le Corbusier	Laval	Quebec	H7S 1Y8	45.6013773	-73.5605161
+219	Best Buy; Dix30		8480 boul. Leduc bureau 100	Brossard	Quebec	J4Y 0K7	45.5613678	-73.7324752
+220	Best Buy; Fairview Pointe-Claire		6815 aut. Transcanadienne bureau Y009	Pointe-Claire	Quebec	H9R 1C4	45.452866	-73.4435645
+221	Best Buy; Saint-Bruno		1235 boul. des Promenades	Saint-Bruno-de-Montarville	Quebec	J3V 6H1	45.4640475	-73.8313424
+222	Best Buy; Gatineau		920 boul. Maloney Ouest	Gatineau	Quebec	J8T 3R6	45.4998413	-73.3769843
+223	Best Buy; Place Rosemère		401 boul. Labelle bureau M-20	Rosemère	Quebec	J7A 3T2	45.4779159	-75.6903002
+224	Best Buy; Greenfield Park		1800 rue Auguste	Longueuil	Quebec	J4V 3R4	 None	 None
+225	Best Buy; Carrefour Angrignon		7077 boul. Newman	Montréal	Quebec	H8N 1X1	45.4845143	-73.4617545
+226	Best Buy; Montréal Marché Central		8871 boul. de L'acadie	Montréal	Quebec	H4N 3K1	45.4473692	-73.6171694
+227	Best Buy; Québec Galeries de la Capitale		5401 boul. des Galeries	Québec	Quebec	G2K 1N4	45.5319868	-73.6508162
+228	Best Buy; Québec Place Laurier		2700 boul. Laurier bureau 2290	Québec	Quebec	G1V 2L8	 None	 None
+229	Écocentre Bury		105 ch. Maine	Bury	Quebec	J0B 1M0	46.7710327	-71.2829623
+230	Écocentre de Baie-Trinité		rte 138 (à l'entrée ouest du village)	Baie-Trinité	Quebec	G0H 1A0	45.5178695	-71.5618925
+231	Écocentre Sainte-Marguerite-du-Lac-Masson		245 ch. Masson	Sainte-Marguerite-du-Lac-Masson	Quebec	J0T 1L0	49.4200169	-67.3050545
+232	Écocentre Grande-Allée		8005 boul. Grande-Allée	Brossard	Quebec	J4Z 3H8	46.0362387	-74.0655775
+233	Écocentre Saint-Bruno-de-Montarville		600 rue Sagard	Saint-Bruno-de-Montarville	Quebec	J3V 6B9	45.4515212	-73.4149883
+234	Uptimum informatique		525 rue Grande-Allée	Trois-Rivières	Quebec	G9B 7R9	45.5173207	-73.3635765
+235	1-800-Got-Junk; Brossard		3875 rue Isabelle porte #15	Brossard	Quebec	J4Y 2R2	46.2896314	-72.6727767
+236	Écocentre L'Islet-Sud	Ouvert mai à octobre	2 rang Brise-Culotte	Sainte-Perpétue	Quebec	G0R 3Z0	45.427333	-73.467952
+237	Écocentre Rouyn-Noranda (Multitech)		1610 rang Lusko	Rouyn-Noranda	Quebec	J9X 6J2	 None	 None
+238	Déchetterie de Rivière-au-Renard		14 rue de l'Entrepôt	Gaspé	Quebec	G4X 5L4	 None	 None
+239	Centre de tri Grande-Rivière		498 Grande-Allée Ouest	Grande-Rivière	Quebec	G0C 1V0	 None	 None
+240	Garage municipal de Chambly	Ouvert lundi au jeudi 8 h à 16 h 30 Vendredi 8 h à 12 h	2500 boul. Industriel	Chambly	Quebec	J3L 4V2	48.3790753	-64.5627866
+241	Écocentre Baie-Comeau		800 av. Léonard-E.-Schlemm	Baie-Comeau	Quebec	G4Z 3B7	45.4261406	-73.2777339
+242	Blackburn &amp; Blackburn		980 boul. Université	Saguenay	Quebec	G7H 6H1	49.21124	-68.2288407
+243	Écocentre Henry-Ford		2800 boul. Henry-Ford	Vaudreuil-Dorion	Quebec	J7V 0V8	 None	 None
+244	Écocentre Sainte-Marie-de-Blandford		492 rue des Bosqets	Sainte-Marie-de-Blandford	Quebec	G0X 2W0	45.383292	-74.047598
+245	Écocentre Sainte-Perpétue		33 rang Sainte-Anne	Sainte-Perpétue	Quebec	J0C 1R0	 None	 None
+246	Écocentre Sainte-Sophie-de-Lévrard		174 rue Saint-Antoine Porte A	Sainte-Sophie-de-Lévrard	Quebec	G0X 3C0	 None	 None
+247	Écocentre Saint-Léonard-d'Aston		434 rue de l'Exposition	Saint-Léonard-d'Aston	Quebec	J0C 1M0	46.4162916	-72.1169386
+248	Écocentre Saint-Pierre-les-Becquets		163 rte 218	Saint-Pierre-les-Becquets	Quebec	G0X 2Z0	46.1090227	-72.3774145
+249	Écocentre Saint-Sylvère	Appeler avant 819-285-207	837 rang 8	Saint-Sylvère	Quebec	G0Z 1H0	 None	 None
+250	Centre communautaire de Saint-Wenceslas		1025 rue Hébert	Saint-Wenceslas	Quebec	G0Z 1J0	46.2322977	-72.2260368
+251	Écocentre Saint-Zéphirin-de-Courval		1471 rang Saint-Pierre	Saint-Zéphirin-de-Courval	Quebec	J0G 1V0	46.1645906	-72.3262197
+252	Écocentre Bécancour		1300 av. Nicolas Perrot	Bécancour	Quebec	G9H 1A1	 None	 None
+253	Écocentre Nicolet		435 rue Théophile Saint-Laurent	Nicolet	Quebec	J3T 1B4	46.3392419	-72.435678
+254	Le 9e Bit		715 rue Cormier	Drummondville	Quebec	J2C 6P7	46.2244013	-72.6080116
+255	Best Buy; Saint-Jérôme		1040 boul. du Grand-Heron	Saint-Jérôme	Quebec	J7Y 5K8	45.8881415	-72.5158852
+256	Best Buy; Sherbrooke		3450 boul. de Portland	Sherbrooke	Quebec	J1L 2A6	 None	 None
+257	Best Buy; Lachenaie		790 Montée des Pionniers	Terrebonne	Quebec	J6V 1N9	 None	 None
+258	Best Buy; Mascouche		145 montée Masson	Mascouche	Quebec	J7K 3B4	 None	 None
+259	Best Buy; Carrefour Trois-Rivières Ouest		4520 boul. des Récollets   bureau 900A	Trois-Rivières	Quebec	G9A 4N2	45.7247834	-73.6190779
+260	Best Buy; Granby		90 rue Simonds Nord	Granby	Quebec	J2J 2L1	46.3252869	-72.5668594
+261	Best Buy; Vaudreuil		3090 boul. de la Gare	Vaudreuil-Dorion	Quebec	J7V 0H1	 None	 None
+262	Best Buy; Rimouski		387 montée Industrielle-et-Commerciale	Rimouski	Quebec	G5M 1Y1	45.3982913	-74.0546675
+263	Best Buy; Drummondville		850 rue Hains	Drummondville	Quebec	J2C 5N9	48.4560953	-68.4985718
+264	Best Buy; Saint-Jean-sur-Richelieu		600 rue Pierre-Caisse Unit 4000	Saint-Jean-sur-Richelieu	Quebec	J3A 1M1	 None	 None
+265	Friperie Coderr		1000 boul. Saint-Jude	Alma	Quebec	G8B 3L1	 None	 None
+266	Écocentre Amos		5311 rte 395 Nord	Amos	Quebec	J9T 2G1	48.5384529	-71.6628841
+267	Bureau municipal de Saint-Georges-de-Windsor		485 rue Principale	Saint-Georges-de-Windsor	Quebec	J0A 1J0	48.5648155	-78.1130337
+268	Bureau municipal de Saint-Adrien		1589 rue Principale	Saint-Adrien	Quebec	J0A 1C0	45.6987669	-71.84621
+269	Bureau municipal de Saint-Camille		87 rue Desrivières	Saint-Camille	Quebec	J0A 1G0	45.8195769	-71.7228138
+270	Écocentre de Danville		17 rue Grove	Danville	Quebec	J0A 1A0	 None	 None
+271	Écocentre de Wotton		533 rue Parc-Industriel	Wotton	Quebec	J0A 1N0	45.785109	-72.014416
+272	Écocentre Saint-Roch-des-Aulnaies		379 rte de l'Église	Saint-Roch-des-Aulnaies	Quebec	G0R 3Z0	45.7395194	-71.8033536
+273	Garage municipal du Canton d'Orford		1120 ch. de la Montagne	Orford	Quebec	J1X 6X9	47.3057995	-70.1683202
+274	Villeneuve Audio Vidéo; Stéréo Plus Joliette		50 rue Gauthier Nord	Notre-Dame-des-Prairies	Quebec	J6E 1V1	45.3076759	-72.1755012
+275	Micro Data Informatique		110 rue Saint-Louis	Rimouski	Quebec	G5L 5P7	 None	 None
+276	Infotronix		6155 rue Marivaux	Montréal	Quebec	H1P 3H6	 None	 None
+277	Evolutel		183 rue Freeman bureau 8	Gatineau	Quebec	J8Z 2A7	45.6013004	-73.6076368
+278	Micro en gros		2231 ch. Gascon	Terrebonne	Quebec	J6X 4H3	45.4720859	-75.745064
+279	Tech-Nic Réseau Conseil		49 rue Angus Nord	East Angus	Quebec	J0B 1R0	45.7239497	-73.6641089
+280	Écocentre Saint-Joseph-du-Lac		4085 ch. d?Oka	Saint-Joseph-du-Lac	Quebec	J0N 1M0	 None	 None
+281	Arteau Récupération		665 rue du Nickel bureau 1100	Québec	Quebec	G2N 0J9	 None	 None
+282	Écocentre Napierville		240 rue Poupart	Napierville	Quebec	J0J 1L0	 None	 None
+283	Écocentre Sainte-Thècle		1951 ch. Saint-Georges	Sainte-Thècle	Quebec	G0X 3G0	45.1937247	-73.3973539
+284	Écocentre Wentworth-Nord		3488 rte Principale	Wentworth-Nord	Quebec	J0T 1Y0	46.7830407	-72.5034058
+285	Écocentre Roberval		1855 rue Castonguay	Roberval	Quebec	G8K 1T6	 None	 None
+286	Écocentre de Grandes-Piles		620 5e Avenue	Grandes-Piles	Quebec	G0X 1H0	48.534191	-72.2578056
+287	Écocentre Saint-Adelphe		191 rang Sud-Est	Saint-Adelphe	Quebec	G0X 2G0	46.686806	-72.7243124
+288	Écocentre Lac-aux-Sables		900 ch. de la Batiscan	Lac-aux-Sables	Quebec	G0X 1M0	46.7276888	-72.4302049
+289	Ressourcerie Lévis		24 rue Charles-A-Cadieux	Lévis	Quebec	G6V 7Z6	 None	 None
+290	Informatique ASR		9 rue Passenger	Stanstead	Quebec	J0B 3E2	46.7936935	-71.1709897
+291	Ameublement Brandsource Desrochers		229 rue Principale	Plaisance	Quebec	J0V 1S0	45.007252	-72.104626
+292	Les services Kopilab		231  2e Rang Ouest	Sainte-Luce	Quebec	G0K 1P0	45.606226	-75.1193184
+293	Cyberlogic Informatique		159 rue Jean-Talon Ouest bureau 101	Montréal	Quebec	H2R 2X2	48.5134407	-68.3745054
+294	Derytelecom		1013 rue Bagot	Saguenay	Quebec	G7B 2N6	45.5329585	-73.6201402
+295	Services Informatiques Commtech		165 rue Gamelin	Gatineau	Quebec	J8Y 1W1	48.3382234	-70.881962
+296	Encreco		2189 boul. Talbot	Saguenay	Quebec	G7H 8B3	45.4433414	-75.7396867
+297	La Source; Dolbeau Mistassini		1358 boul. Wallberg	Dolbeau-Mistassini	Quebec	G8L 1H1	48.3886705	-71.0754983
+298	Micro Informatique-extreme		1206 boul. de l'Assomption Est	Repentigny	Quebec	J6A 0B7	48.8783617	-72.2279673
+299	Distribution électronique F.C.		721 rue Bossé	Baie-Comeau	Quebec	G5C 1L5	45.7869179	-73.4384977
+300	Centre électronique informatique Knowlton		489 ch. Knowlton	Lac-Brome	Quebec	J0E 1V0	49.1929388	-68.2554901
+301	Ordimatique		592 ch. du Grand-Bernier Nord	Saint-Jean-sur-Richelieu	Quebec	J3B 7G2	45.213629	-72.5308558
+302	Microbytes; Centre-Ville		625 boul. René-Levesque Ouest bureau 100	Montréal	Quebec	H3B 1R2	45.3181145	-73.2954916
+303	Martin Crépeau Informatique		5 rue Sainte-Julie Est	Saint-André-Avellin	Quebec	J0V 1W0	45.5025526	-73.5671879
+304	Le Petit coin de l'informatique		1160 rte Principale	Sainte-Mélanie	Quebec	J0K 3A0	45.7272015	-75.051523
+305	Saguenay Informatique		1740 boul. Du Royaume	Saguenay	Quebec	G7H 5B1	46.1365013	-73.5106234
+306	Municipalité de Montpellier		4 rue Du Bosquet	Montpellier	Quebec	J0V 1M0	 None	 None
+307	Écocentre Marie- Victorin		1140 boul. Marie- Victorin	Longueuil	Quebec	J4G 2H4	45.8547292	-75.16544
+308	Garage municipal de L'Islet		425 rue Principale	Sainte-Perpétue	Quebec	G0R 3Z0	45.5566418	-73.4915264
+309	Hôtel de ville de Chénéville		63 rue de L'Hôtel-de-Ville	Chénéville	Quebec	J0V 1E0	47.052728	-69.9194867
+310	Écocentre Saint-Samuel		487 rue des Loisirs	Saint-Samuel	Quebec	G0Z 1G0	45.8838671	-75.0547378
+311	Garage municipal de Montebello		577 rue Dollard	Montebello	Quebec	J0V 1L0	46.0527674	-72.2084645
+312	Écocentre d?Oka		2017 ch. d'Oka	Oka	Quebec	J0N 1E0	45.6496606	-74.937515
+313	Garage municipal Ripon	Sur appel seulement	139 rue Principale	Ripon	Quebec	J0V 1V0	 None	 None
+314	Garage municipal Ste-Clotilde-de-Horton		17 rte 122	Sainte-Clotilde-de-Horton	Quebec	J0A 1H0	45.7793356	-75.1000236
+315	Écocentre Val-des-Bois		595 rte 309	Val-des-Bois	Quebec	J0X 3C0	45.9929958	-72.2374825
+316	Monburo.ca; Solutions Témis		331 av. Principale	Dégelis	Quebec	G5T 1L1	45.9161597	-75.5915672
+317	GPC Micro		6188 rue Jean-Talon Est	Montréal	Quebec	H1S 1M8	47.548201	-68.649122
+318	Centre informatique Memphré		69 rue Laurier	Magog	Quebec	J1X 2K2	45.5890541	-73.5770438
+319	Électronique Mercier		162 rue Fraser	Rivière-du-Loup	Quebec	G5R 1C8	45.2667743	-72.1511949
+320	Écocentre Notre-Dame-de-la-Salette		13 rue du Rollin	Notre-Dame-de-la-Salette	Quebec	J0X 2L0	47.830717	-69.551675
+321	Garage municipal Maskinongé		36 B rue Saint-Denis	Maskinongé	Quebec	J0K 1N0	45.767792	-75.582905
+322	Garage municipal de Grenville		10 rue du Moulin	Grenville	Quebec	J0V 1J0	46.2306568	-73.0186828
+323	Écocentre Canton de Gore		40 ch. Sideline	Gore	Quebec	J0V 1K0	45.6300345	-74.6014343
+324	Tricentris; Lachute		651 ch. Félix Touchette	Lachute	Quebec	J8H 2C5	45.7519787	-74.2490771
+325	Écocentre Saint-Chrysostome		400 rang Saint-Antoine	Saint-Chrysostome	Quebec	J0S 1R0	45.6331111	-74.2997861
+326	Bureau municipal de Low		4A ch. d'Amour	Low	Quebec	J0X 2C0	45.1024171	-73.7666119
+327	Écocentre Lac-des-Seize-îles		10 rue Lapierre	Lac-des-Seize-îles	Quebec	J0T 2M0	45.809319	-75.948971
+328	Écocentre de la Seigneurie		68 boul. de la Seigneurie	Blainville	Quebec	J7C 4N1	45.9227966	-74.4672541
+329	Garage municipal de L'Ange-Gardien		870 ch. Donaldson	L'Ange-Gardien	Quebec	J8L 0K8	45.674317	-73.8621821
+330	Goyette Info Plus		5020 rte 132	Sainte-Catherine	Quebec	J5C 1L8	 None	 None
+331	Écocentre Lanoraie		297 rue Notre-Dame	Lanoraie	Quebec	J0K 1E0	45.3915526	-73.5772419
+332	Écocentre de Harrington		ch. de l'écocentre	Harrington	Quebec	J8G 2T1	45.9546095	-73.2236645
+333	Garage municipal de Saint-Paul-d'Abbotsford		926 rue Principale	Saint-Paul-d'Abbotsford	Quebec	J0L 1A0	45.503997	-73.638733
+334	Garage municipal de L'Ange-Gardien		137 rue Principale	Ange-Gardien	Quebec	J0E 1E0	45.436958	-72.8845003
+335	Garage municipal de Marieville		2008 rue Saint-Césaire	Marieville	Quebec	J3M 1J5	45.3600718	-72.9357795
+336	Garage municipal de Richelieu		650 10e Avenue	Richelieu	Quebec	J3P 3P6	45.4352444	-73.1572249
+337	Hôtel de ville de Rougemont		61 ch. de Marieville	Rougemont	Quebec	J0L 1M0	45.4404215	-73.2459879
+338	Garage municipal de Sainte-Angèle-de-Monnoir		11 ch. du Vide	Sainte-Angèle-de-Monnoir	Quebec	J0L 1P0	45.4439807	-73.0725825
+339	Garage municipal de Bonaventure		211 av. de Grand-Pré	Bonaventure	Quebec	G0C 1E0	 None	 None
+340	Écocentre Saint-Anne-des-Monts		730 Sainte-Anne Ouest	Sainte-Anne-des-Monts	Quebec	G4V 1V2	48.05031	-65.4830019
+341	Garage municipal de Saint-Alexis-de-Matapédia		121 rue Rustico Nord	Saint-Alexis-de-Matapédia	Quebec	G0J 2E0	49.1258542	-66.5601913
+342	Bureau municipal Val Brillant		11 rue Saint-Pierre Ouest	Val-Brillant	Quebec	G0J 3L0	 None	 None
+343	Écocentre Mansfield-et-Pontefract		ch. du Lac de la Truite	Mansfield-et-Pontefract	Quebec	J0X 1R0	48.5338825	-67.5482067
+344	Dépôt municipal  Saint-Charles-sur-Richelieu		405 ch. des Patriotes	Saint-Charles-sur-Richelieu	Quebec	J0H 2G0	45.9240202	-76.7536643
+345	Garage municipal de Paspébiac		231 rte Saint-Pie X	Paspébiac	Quebec	G0C 2K0	45.6835675	-73.1873444
+346	Garage municipal de La Matapédia		8 rue MacDonell	Matapédia	Quebec	G0J 1V0	48.036595	-65.251306
+347	Garage municipal de Pointe-à-la-Croix		rue de la Carrière (pas de # civique)	Pointe-à-la-Croix	Quebec	G0C 1L0	47.9747157	-66.9406712
+348	Garage municipal d'Escuminac		169 boul. Perron	Escuminac	Quebec	G0C 1N0	 None	 None
+349	Garage municipal de New Richmond		128 boul. Perron Est	New Richmond	Quebec	G0C 2B0	48.1241451	-66.4746701
+350	Garage municipal de Saint-François-d'Assise		399 ch. Central	Saint-François-d'Assise	Quebec	G0J 2N0	48.154091	-65.8456829
+351	Garage municipal de Maria		57 rue des Mésanges	Maria	Quebec	G0C 1Y0	47.982412	-67.1578079
+352	Écocentre Saint-Maxime du Mont-Louis		9 av. B	Saint-Maxime-du-Mont-Louis	Quebec	G0E 1T0	48.1725989	-65.9907822
+353	Garage municipal de Carleton-sur-Mer		11 rue Comeau	Carleton-sur-Mer	Quebec	G0C 1J0	49.230187	-65.7114776
+354	Garage municipal de La Nouvelle		470 rue Francoeur	Nouvelle	Quebec	G0C 2E0	48.1027369	-66.1144543
+355	Écocentre Saint-Honoré		2991 boul. Martel	Saint-Honoré	Quebec	G0V 1L0	48.1389732	-66.3126375
+356	Écocentre Saint-Donat		214 ch. du Long-de-la-Rivière	Saint-Donat	Quebec	J0T 2C0	48.5252223	-71.0897364
+357	Écocentre Anse-Saint-Jean		31 rang Saint-Thomas Sud	L'Anse-Saint-Jean	Quebec	G0V 1J0	46.3089913	-74.2069893
+358	Hôtel de ville de Crabtree		111 4e Avenue	Crabtree	Quebec	J0K 1B0	48.212437	-70.236309
+359	Papeterie St-Rémi		725 Notre-Dame	Saint-Rémi	Quebec	J0L 2L0	45.9632411	-73.4730291
+360	Microbytes; Rosemère		207 boul. Labelle	Rosemère	Quebec	J7A 2H3	45.2624663	-73.6159059
+361	Microbytes; Mascouche		168 Montée Masson	Mascouche	Quebec	J7K 3B5	45.6239459	-73.8050888
+362	ORDIGENI; Électronique et Informatique		267 boul. Fiset	Sorel-Tracy	Quebec	J3P 3P9	45.7247165	-73.6207112
+363	Hôpital Hôtel-Dieu-de-Montmagny		350 boul. Taché Ouest	Montmagny	Quebec	G5V 3R8	 None	 None
+364	L'Intro Musique		11 rue Sainte-Anne	Ville-Marie	Quebec	J9V 2B6	 None	 None
+365	Ordi Occasion		8674 ave Chaumont	Montréal	Quebec	H1K 1N6	47.330449	-79.441772
+366	Meubles Réal Levasseur 1955		1730 rue Principale	Pohénégamook	Quebec	G0L 1J0	45.6103225	-73.5470786
+367	Microbytes; Pointe-Claire		940 boul. Saint-Jean bureau 15	Pointe-Claire	Quebec	H9R 5N8	47.4804394	-69.2682718
+368	Édifice Léon-Taillon		200 rue Bella-Vista	Saint-Basile-le-Grand	Quebec	J3N 1M1	45.4676843	-73.8312555
+369	Écocentre Saint-Félix-de-Valois		4400 rue Beaudry	Saint-Félix-de-Valois	Quebec	J0K 2M0	 None	 None
+370	Écocentre Bois-des-Filion		700 rue de la Sablière	Bois-des-Filion	Quebec	J6Z 4T7	46.1431757	-73.4266288
+371	Site de transbordement de St-Michel-des-Saints		701 ch. de l?industrie	Saint-Michel-des-Saints	Quebec	J0K 3B0	45.678706	-73.7652009
+372	Garage municipal de Notre-Dame-de-la-Merci		2101 rte 125	Notre-Dame-de-la-Merci	Quebec	J0T 2A0	46.6846247	-73.9317072
+373	Garage municipal de Mont-Saint-Hilaire	Citoyens seulement	901 boul. Sir-Wilfrid-Laurier	Mont-Saint-Hilaire	Quebec	J3H 6H7	 None	 None
+374	Xpert Micro		1010 1ere rue	Richelieu	Quebec	J3L 3W7	45.57375	-73.1748893
+375	Écocentre Parisville		975 rue Principale O	Parisville	Quebec	G0S 1X0	 None	 None
+376	Écocentre Fortierville		198 rue de la Fabrique	Fortierville	Quebec	G0S 1J0	46.5184266	-72.065681
+377	Écocentre Sainte-Adèle		2815 ch.  Rolland	Sainte-Adèle	Quebec	J8B 1C9	46.4864331	-72.0319787
+378	Écocentre de l?Aéroport		26 rue Pierre Ménard	Gatineau	Quebec	J8R 3X3	 None	 None
+379	Écocentre Victoriaville		370 de la Bulstrode	Victoriaville	Quebec	G6P 9J7	 None	 None
+380	Microbytes; Montréal		3830 rue Saint-Denis	Montréal	Quebec	H2W 2M2	46.0806483	-71.9474636
+381	Travaux publics; Côte Saint-Luc		7001 ch. Mackle	Côte-Saint-Luc	Quebec	H4W 1A5	45.5193667	-73.5732801
+382	Travaux publics; Voirie de Westmount		1 rue Bethune	Westmount	Quebec	H3Z 2L2	45.47247	-73.67012
+383	Entrepôt municipal		599 ch. des Patriotes	Saint-Denis-sur-Richelieu	Quebec	J0H 1K0	45.47807	-73.5948809
+384	Écocentre de Beloeil		986 rue Dupré	Beloeil	Quebec	J3G 4A8	45.786306	-73.1593196
+385	1-800-Got-Junk; Lachine		150 boul. de Montréal-Toronto suite 108 porte 19	Montréal	Quebec	H8S 4L8	 None	 None
+386	Electro-Meubles Denis		1721  L'Annonciation Sud	Rivière-Rouge	Quebec	J0T 1T0	 None	 None
+387	Dépôt CRI Environnement		75 rue du Progrès	Coteau-du-Lac	Quebec	J0P 1B0	46.3965758	-74.8640955
+388	NSLOne Informatique	Ouvert lundi au mercredi 8 h 30 à 18 h Jeudi et vendredi 8 h 30 à 21 h	2330 av. Sainte-Anne	Saint-Hyacinthe	Quebec	J2S 5H9	45.2975726	-74.2019961
+389	Écocentre Farnham		1180 boul. Industriel	Farnham	Quebec	J2N 3B5	45.6305746	-72.9551557
+390	Dépôt Ville de Dollard-des-Ormeaux	Le site est ouvert aux résidents de Dollard-des-Ormeaux SEULEMENT, preuve de résidence obligatoire	100 rue Glenmore	Dollard-Des Ormeaux	Quebec	H9B 2X9	45.2903525	-72.9627372
+391	Ameublements Tanguay		1990 boul. Talbot	Saguenay	Quebec	G7H 7Y3	45.494921	-73.806946
+392	Technipc Informatique	Ouvert lundi au mercredi de 8h30 à 17h30 Jeudi et vendredi de 8h30 à 20h00 Samedi de 9h00-12h00 Dimanche fermé	44 rue du Collège	Pont-Rouge	Quebec	G3H 3A3	48.3935847	-71.0724838
+393	Écocentre Trois-Rivières- secteur est		1921 rue des Toitures	Trois-Rivières	Quebec	G8V 1W1	46.752181	-71.6946986
+394	Écocentre Saint-Prosper		2690 40e rue	Saint-Prosper	Quebec	G0M 1Y0	46.4059699	-72.5316023
+395	Écocentre Barraute		rue du Moulin	Barraute	Quebec	J0Y 1A0	 None	 None
+396	Centre de transbordement Ville de La Tuque		1220 ch. des Pionniers	La Tuque	Quebec	G9X 3N6	48.436554	-77.6310146
+397	Écocentre Bon débarras		2456 route 125	Sainte-Julienne	Quebec	J0K 2T0	 None	 None
+398	Écocentre Bedford		80 rue Cyr	Bedford	Quebec	J0J 1A0	45.9902998	-73.7202905
+399	Écocentre de Chertsey		225 rue du Progrès	Chertsey	Quebec	J0K 3K0	45.1258759	-72.9876957
+400	Écocentre Sutton		260 rte 139 Sud	Sutton	Quebec	J0E 2K0	46.119132	-73.937756
+401	Informatique Infotech	Ouvert lundi au mercredi de 8 h 30 à 17 h 30 Jeudi et vendredi de 8 h 30 à 20 h 30	123 rue Georges	Gatineau	Quebec	J8M 1T6	45.4763947	-72.6265676
+402	Byte Mobile		1672 chemin Gascon	Terrebonne	Quebec	J6X 4H9	 None	 None
+403	Centre de tri Warwick		17 rue du Lac	Warwick	Quebec	J0A 1M0	45.7157648	-73.6553246
+404	Ameublements Tanguay; Centre de distribution		7200 rue Armand-Viau	Québec	Quebec	G2C 2A7	 None	 None
+405	Ameublements Tanguay		2200 boul. des Récollets	Trois-Rivières	Quebec	G8Z 3X5	46.8205835	-71.3489751
+406	Ameublements Tanguay		8955 boul. Lacroix	Saint-Georges	Quebec	G5Y 5H5	46.340056	-72.58338
+407	Ameublements Tanguay		245 boul. de l'Hôtel-de-Ville	Rivière-du-Loup	Quebec	G5R 5H5	 None	 None
+408	Ameublements Tanguay		375 montée Industrielle-et-Commerciale	Rimouski	Quebec	G5M 1Y1	 None	 None
+409	Dépôt Saint-Anselme		1265 rte Bégin	Saint-Anselme	Quebec	G0R 2N0	48.4571056	-68.4989748
+410	Écocentre Bromont		20 rue du Pacifique Est	Bromont	Quebec	J2L 1J5	46.6158597	-70.940226
+411	Les Entreprises J.M. Arsenault 1982		172 ave Port-Royal	Bonaventure	Quebec	G0C 1E0	45.308075	-72.667203
+412	PC Diamond Informatique		300 rue De La Forge	Namur	Quebec	J0V 1N0	48.0531831	-65.5070819
+413	Écocentre Sainte-Françoise		563 Rang 11	Sainte-Françoise	Quebec	G0S 2N0	 None	 None
+414	Site de transbordement de l'Isle-aux-Allumettes		625 ch. du Rang 5	L'Isle-aux-Allumettes	Quebec	J0X 1M0	46.4554381	-71.9709731
+415	Écocentre de Potton		5 ch. West-Hill	Potton	Quebec	J0E 1X0	45.8665512	-77.0790755
+416	Monburo.ca Montmagny		49 rue Saint-Jean-Baptiste Est	Montmagny	Quebec	G5V 1J6	 None	 None
+417	Équipement de bureau Ungava		529 3e rue	Chibougamau	Quebec	G8P 1N8	46.9798528	-70.5605138
+418	Koncas Recyclage		10930 rue Sherbrooke Est	Montréal-Est	Quebec	H1B 1B4	49.9138189	-74.364734
+419	Système Électronique Larivière		573 90 ième rue	Saint-Georges	Quebec	G5Y 3L1	45.629053	-73.5158362
+420	Écocentre Rivière-à-Pierre		824 rue Principale	Rivière-à-Pierre	Quebec	G0A 3A0	46.1320872	-70.6942615
+421	Écocentre Saint-Ubalde		570 rang Saint-Paul Nord	Saint-Ubalde	Quebec	G0A 4L0	46.9967711	-72.1766245
+422	Rubanco BuroPlus		2158 rue de la Province	Longueuil	Quebec	J4G 1R7	46.7460448	-72.25059
+423	Électronique Pelletier TV		1480 rte 230 Est	Sainte-Anne-de-la-Pocatière	Quebec	G0R 1Z0	45.5652015	-73.4699846
+424	Écocentre Petit-Saguenay		35 rue du Quai	Petit-Saguenay	Quebec	G0V 1N0	47.3669149	-70.0408543
+425	Fleet Informatique		750 rue Notre-Dame bureau D	Berthierville	Quebec	J0K 1A0	 None	 None
+426	Rhesus	Ouvert lundi au jeudi 7 h 30 à 17 h Vendredi 8 h à 15 h	757 boul. Pierre-Roux Est bureau 102	Victoriaville	Quebec	G6T 1S7	46.0851537	-73.1843108
+427	LET de Sept-îles		ch. du Lac Daigle	Sept-îles	Quebec		46.0800989	-71.9544973
+428	Écocentre de Sept-îles		601 boul. des Montagnais	Sept-îles	Quebec	G4R 5B8	50.261779	-66.3280552
+429	Coop UQAM	Ouvert lundi au mercredi 9 h à 18 h Jeudi et vendredi 9 h à 20 h Samedi 10 h à 17 h	289 rue Sainte-Catherine Est	Montréal	Quebec	H2X 1L5	50.2274416	-66.3960457
+430	Stéréo Plus; La Malbaie	Ouvert 9 h 30 à 17 h 30	446 rue Saint-Étienne	La Malbaie	Quebec	G5A 1H4	45.5127738	-73.5615295
+431	Écocentre RIGDCS		1095 du chemin Bilodeau	Coaticook	Quebec	J1A 2S4	47.6501521	-70.1514692
+432	Écocentre Paul Ménard		28 ch. Cooke	Chapais	Quebec	G0W 1H0	45.0930412	-71.8532072
+433	Ateliers municipaux de la ville Kirkland		25 rue Claude-Jodoin	Kirkland	Quebec	H9H 5E6	49.782319	-74.8572159
+434	Écocentre Fermont		2 rue du Camp	Fermont	Quebec	G0G 1J0	45.451046	-73.843742
+435	Écocentre Notre-Dame-du-Nord		71 rue Principale Nord	Notre-Dame-du-Nord	Quebec	J0Z 3B0	52.8046594	-67.0975518
+436	Audio Vidéo Amqui	Nouvelle adresse depuis le 1e septembre 2016 Ancienne adresse : 33, rue des Forges, Amqui	238 rue Banville	Sainte-Paule	Quebec	G5J 3A5	47.5974749	-79.4822794
+437	Garage municipal de Saint-Victor		176 rue Principale	Saint-Victor	Quebec	G0M 2B0	48.6602977	-67.5590683
+438	1-800-Got-Junk; Ville Saint-Laurent		5445 ch. du Bois-Franc	Montréal	Quebec	H4S 1A9	46.142948	-70.9106889
+439	1-800-Got-Junk; Québec	Sur rendez-vous seulement	3-990 rue Raoul-Jobin	Québec	Quebec	G1N 1S9	45.4945595	-73.7444697
+440	Normand Nadeau TV	Ouvert 9 h à 17 h 30	500 boul. Vachon Nord	Sainte-Marie	Quebec	G6E 1M1	46.8046858	-71.2499256
+441	Écocentre Lac Brome		50 ch. Mill	Lac-Brome	Quebec	J0E 1V0	46.4454811	-71.0258121
+442	Boulevard électroniqueoeStéréo Plus; Valleyfield	Ouvert 9 h à 17 h 30	3225 boul. Mgr Langlois	Salaberry-de-Valleyfield	Quebec	J6S 2H9	 None	 None
+443	Écocentre Richmond		500 10e Avenue	Richmond	Quebec	J0B 2H0	45.2729656	-74.1001146
+444	Infoteck	Ouvert lundi au vendredi 8 h à 16 h 30	1030 boul. Port-Royal bureau 008	Bécancour	Quebec	G9H 1X6	45.6636548	-72.125749
+445	Renaissance; Librairie Pierrefonds		14891 boul. De Pierrefonds	Montréal	Quebec	H9H 4M5	46.2938908	-72.5438759
+446	Renaissance; Librairie Plateau		1310 av. du Mont-Royal Est	Montréal	Quebec	H2J 1Y5	45.4845653	-73.8614263
+447	Renaissance; Librairie NDG		4001 boul. Décarie	Montréal	Quebec	H4A 3J8	45.5298858	-73.5770499
+448	Renaissance; Centre de don île-des-S?urs		750 ch. du Golf	Montréal	Quebec	H3E 1A8	45.4775068	-73.6153322
+449	Renaissance; Fripe-Prix Saint-Lambert		423 av. Victoria	Saint-Lambert	Quebec	J4P 2J1	45.4655868	-73.5541928
+450	Renaissance; Centre de don Outremont		1089 av. Bernard	Montréal	Quebec	H2V 1V1	45.5017521	-73.5123403
+451	Renaissance; Centre de don Cadillac		6002 rue Sherbrooke Est	Montréal	Quebec	H1N 1B8	45.5218883	-73.6073457
+452	Renaissance; Centre de don des Laurentides		5140 boul. Des Laurentides	Laval	Quebec	H7K 2J5	45.5765432	-73.5464758
+453	Renaissance; Centre de don Concorde		2770 boul. De La Concorde Est	Laval	Quebec	H7E 2B4	45.6212591	-73.7465654
+454	Renaissance; Centre de don LaSalle		8459 boul. Newman	Montréal	Quebec	H8N 2Y7	45.5901213	-73.6701405
+455	Renaissance; Centre de don île-Bizard		570 boul. Jacques-Bizard	Montréal	Quebec	H9C 2H2	45.4323924	-73.6313415
+456	Renaissance; Centre de don Dorval		707 ch. du Bord-du-Lac	Dorval	Quebec	H9S 2B9	45.4944119	-73.8770652
+457	Renaissance; Centre de don Beaconsfield		42B boul. Saint-Charles	Beaconsfield	Quebec	H9W 5Z6	45.4393185	-73.7370507
+458	Renaissance; Centre de don Lajeunesse		9105 rue Lajeunesse	Montréal	Quebec	H2M 1S3	45.4319196	-73.8475928
+459	Renaissance; Centre de don Fleury		2407 rue Fleury Est	Montréal	Quebec	H2B 1L1	45.5485231	-73.6451632
+460	Renaissance; Fripe-Prix Pie-IX		2030 boul. Pie-IX	Montréal	Quebec	H1V 2C8	45.5745846	-73.648515
+461	De tout pour tout.com		1900 rue Thomas Edison	Terrebonne	Quebec	J6Y 2A4	45.5502794	-73.5426441
+462	Renaissance; Fripe-Prix Saint-Laurent		7250 boul. Saint-Laurent	Montréal	Quebec	H2R 2X9	45.6831559	-73.7845348
+463	Renaissance; Fripe-Prix Saint-Jacques		7205 rue Saint-Jacques Ouest	Montréal	Quebec	H4B 1V3	45.5350831	-73.6196061
+464	Renaissance; Fripe-Prix Côte-des-Neiges		6700 ch. de la Côte-des-Neiges local 205	Montréal	Quebec	H3S 2B2	45.455833	-73.633165
+465	P.V. Informatique		940 boul. Lachapelle	Saint-Jérôme	Quebec	J7Z 7M4	45.5026814	-73.6376751
+466	Garage municipal de Disraeli		295 rue Saint-Louis	Disraeli	Quebec	G0N 1E0	 None	 None
+467	Écocentre Ormstown		9 rue Saint-Paul	Ormstown	Quebec	J0S 1K0	 None	 None
+468	Écocentre de Val-des-Lacs		20 montée Charron	Val-des-Lacs	Quebec	J0T 2P0	45.1280673	-73.9975844
+469	Écocentre de Ste-Lucie des Laurentides		2143 ch. Martin	Sainte-Lucie-des-Laurentides	Quebec	J0T 2J0	46.1811585	-74.3450477
+470	Écocentre d'Amherst		1323 rte 323 Sud	Rivière-Rouge	Quebec	J0T 2L0	46.1354911	-74.1854991
+471	Écocentre Rawdon		3269 rue Metcalfe	Rawdon	Quebec	J0K 1S0	46.0216663	-74.739155
+472	Écocentre de Lantier		118 Croissant des Trois-Lacs	Lantier	Quebec	J0T 1V0	 None	 None
+473	Écocentre de la Minerve		75 ch. de la Minerve	La Minerve	Quebec	J0T 1S0	46.149341	-74.2517223
+474	Écocentre Lac Supérieur		1101 ch. du lac Supérieur	Lac-Supérieur	Quebec	J0T 1J0	46.2642445	-74.9194691
+475	Écocentre d'Huberdeau		110 ch. de la Rouge	Huberdeau	Quebec	J0T 1G0	46.1760707	-74.4711912
+476	Technopolis		999 rue Dollard local 14	Gatineau	Quebec	J8L 3E6	45.9935961	-74.6379624
+477	Bureau municipal Deschaillons		1596 rte Marie-Victorin	Deschaillons-sur-Saint-Laurent	Quebec	G0S 1G0	45.5761339	-75.4091284
+478	A.M.C. Informatique enr.		1171 rte Louis-Cyr	Saint-Jean-de-Matha	Quebec	J0K 2S0	46.5514832	-72.1252703
+479	Ordi-Plus		305 rue Saint-Joseph	La Tuque	Quebec	G9X 3A8	46.2323529	-73.5291642
+480	Encre à Rabais.com		40 ch. des Deux Criques	Mont-Tremblant	Quebec	J8E 1X5	47.440955	-72.784645
+481	Maison des jeunes Lebel-sur-Quévillon		52 rue des Trembles	Lebel-sur-Quévillon	Quebec	J0Y 1X0	 None	 None
+482	Écocentre Les Bergeronnes		995 rang Saint-Joseph	Les Bergeronnes	Quebec	G0T 1G0	49.0516734	-76.9814746
+483	Entreprises Pavco		180 Armand-Majeau	Saint-Roch-de-l'Achigan	Quebec	J0K 3H0	48.3132029	-69.5109469
+484	Stéréo Plus; Trois-Rivières		5715 boul. Gene-H. Kruger	Trois-Rivières	Quebec	G9A 4N9	45.8331815	-73.5971073
+485	Visionic Informatique		420  107e rue	Saint-Georges	Quebec	G5Y 8K1	46.3191868	-72.567925
+486	Électrocentre (2000)		1204 av. Saint-Édouard	Plessisville	Quebec	G6L 2J9	46.1262721	-70.6819079
+487	Sertek Informatique		496 av. Blanchand	Chandler	Quebec	G0C 1K0	46.2156778	-71.7677145
+488	CIPC		2536 boul. Rosemont	Montréal	Quebec	H1Y 1K4	48.35056	-64.668206
+489	Brunelle Électronique 1986		10 rue Main Ouest	Coaticook	Quebec	J1A 1P2	45.5469104	-73.585671
+490	Ovation Logistique inc.		4000 rue Jean-Marchand bureau 106	Québec	Quebec	G2C 1Y6	45.1324036	-71.8051939
+491	Équipement de bureau Robert Légaré		411 rue John-F. Kennedy	Saint-Jérôme	Quebec	J7Y 4B5	46.8218636	-71.3456988
+492	Consultants ISM		199 rang du Golf	Lavaltrie	Quebec	J5T 3C6	45.778304	-74.0234925
+493	PC Expert		45 rue Wellington	Coaticook	Quebec	J1A 2H6	45.87712	-73.3039621
+494	Informatique Orford		1585 rue Sherbrooke	Magog	Quebec	J1X 2T5	45.1328963	-71.8031287
+495	CRC Ordinateur		1256 rue Bergar	Laval	Quebec	H7L 5A2	45.2758255	-72.1332375
+496	Garage municipal de Notre-Dame-du-Mont-Carmel		3860 rue de l'Hôtel-de-Ville	Notre-Dame-du-Mont-Carmel	Quebec	G0X 3J0	 None	 None
+497	Salon de l'Électronique	Ouvert lundi au mercredi 9 h 30 à 17 h Jeudi et vendredi 9 h 30 à 20 h	2783 rue Nichols	Saint-Hyacinthe	Quebec	J2S 2X2	46.4720475	-72.6753324
+498	Meubles Jacob		215 rte 153	Saint-Tite	Quebec	G0X 3H0	45.619625	-72.957121
+499	Écocentre Saint-Ambroise		470 rue des Producteurs	Saint-Ambroise	Quebec	G7P 3A9	46.7169332	-72.5828444
+500	Hamster Le Plateau		765 rue Beaubien Est	Montréal	Quebec	H2S 1S8	48.5413158	-71.2945265
+501	Renaissance; Fripe-Prix Verdun		4261 rue Wellington	Montréal	Quebec	H4G 1V9	 None	 None
+502	Renaissance; Fripe-Prix Des Laurentides		381 boul. Des Laurentides	Laval	Quebec	H7G 2T9	45.4611407	-73.567362
+503	Renaissance; Fripe-Prix Pointe-aux-Trembles		1530 boul. Saint-Jean-Baptiste	Montréal	Quebec	H1B 4A4	45.5681775	-73.6893836
+504	Renaissance; Fripe-Prix Masson		3200 rue Masson	Montréal	Quebec	H1Y 1Y3	45.6417524	-73.5058115
+505	Renaissance; Fripe-Prix Saint-Hubert		6960 rue Saint-Hubert	Montréal	Quebec	H2S 2M9	45.5503907	-73.5732519
+506	Renaissance; Fripe-Prix Décarie		1495 rue de l?Église	Montréal	Quebec	H4L 2H5	45.5393554	-73.6103832
+507	Renaissance; Librairie Beaumont		1244 av. Beaumont	Mont-Royal	Quebec	H3P 3E5	45.5118268	-73.6783507
+508	Renaissance; Librairie des Sources		4917 boul. Des Sources	Montréal	Quebec	H8Y 3C8	45.5212388	-73.6235204
+509	Erso Informatique		159 boul. de Gaspé	Gaspé	Quebec	G4X 1A4	45.5060755	-73.8188167
+510	Logesco Informatique; Nicolet		2350 boul. Louis-Fréchette	Nicolet	Quebec	J3T 1M9	48.8405275	-64.4874763
+511	Hôtel de ville de Léry		1 rue de L'hôtel-de-ville	Léry	Quebec	J6N 1E8	46.2419802	-72.5963992
+512	Écocentre Saint-Tite		1019 rte 153	Saint-Tite	Quebec	G0X 3H0	 None	 None
+513	Écocentre de Thetford		251 rue Caouette Ouest	Thetford Mines	Quebec	G6G 7M7	46.745884	-72.5527259
+514	Le Papetier le libraire		403 Notre-Dame	Repentigny	Quebec	J6A 2T2	46.0905272	-71.3079948
+515	Kreasoft Développement de Solutions Informatiques		5532 ch. de L'Aéroport	Valcourt (Ville)	Quebec	J0E 2L0	 None	 None
+516	Garage municipal de Sainte-Catherine		5900 boul. Saint-Laurent	Sainte-Catherine	Quebec	J5C 1B2	 None	 None
+517	Garage municipal-Travaux publics de Candiac		80 boul. Montcalm Nord	Candiac	Quebec	J5R 3L8	45.4012148	-73.5831744
+518	Hôtel de ville de Saint-Placide		281 montée Saint-Vincent	Saint-Placide	Quebec	J0V 2B0	45.3939674	-73.5194081
+519	Centre de transbordement Pointe-Calumet		720 38e rue	Pointe-Calumet	Quebec	J0N 1G2	45.5335974	-74.2057643
+520	The UPS Store; Lévis		44 rte du Président-Kennedy bureau 6	Lévis	Quebec	G6V 6C5	 None	 None
+521	Garage municipal de Taschereau		13 rue Principale	Taschereau	Quebec	J0Z 3N0	46.7963782	-71.1792547
+522	Progitech DM		1155 boul. Marcotte	Roberval	Quebec	G8H 2B5	48.6617993	-78.6808988
+523	Performance Informatique		1226 rue Dionne	Drummondville	Quebec	J2B 2N7	48.5235198	-72.2311948
+524	Électronique Marcel Guimond		375 rue du Collège	Sorel-Tracy	Quebec	J3P 2J5	45.8642027	-72.4754908
+525	Meubles Jacob		560 av. Broadway	Shawinigan	Quebec	G9N 1M3	46.0357153	-73.0944548
+526	Ressourcerie Saint-David-de-Falardeau		Embranchement #2 du lac Sébastien	Saint-David-de-Falardeau	Quebec	G0V 1C0	46.5413335	-72.743759
+527	Centre Hi-Fi Groupe Sélect		4370 boul. Royal	Shawinigan	Quebec	G9N 7X7	48.651667	-71.145833
+528	Microgest Informatique		81 rue Notre-Dame	Saint-Tite	Quebec	G0X 3H0	 None	 None
+529	Ovation Logistique inc.		9005 boul. du Quartier	Brossard	Quebec	J4Y 2P4	46.7328673	-72.5671242
+530	Ovation Logistique inc.		2745 av. Francis-Huges	Laval	Quebec	H7L 3S8	45.4285753	-73.4564676
+531	Péga Informatique		747 boul. Vezina	Dolbeau-Mistassini	Quebec	G8L 2V5	45.5888995	-73.7325729
+532	N.G. Informatique		500 boul. Industriel	Saint-Eustache	Quebec	J7R 5V3	 None	 None
+533	D.V. Services Techniques		516 av. 19e	Montréal	Quebec	H8S 3S5	45.5596044	-73.9221615
+534	Garage municipal de Saint-Philippe		68 Montée Monette	Saint-Philippe	Quebec	J0L 2K0	 None	 None
+535	Réso-Tech Informatique		2735 boul. Père-Lelièvre	Québec	Quebec	G1P 2X9	45.3513414	-73.4776003
+536	Solutek Informatique		36 rue Angus Nord	East Angus	Quebec	J0B 1R0	46.8126515	-71.3076727
+537	Québécom Info Plus		4579 boul. Bourque	Sherbrooke	Quebec	J1N 2G6	45.4834262	-71.6596493
+538	Service Informatique Sept-Iles		370 av. Jolliet	Sept-îles	Quebec	G4R 2B2	 None	 None
+539	Marco Michaud Informatique		1169 3e rue	Val-d'Or	Quebec	J9P 4B2	50.2097285	-66.3748153
+540	Technic S.M.		3 rue de l'Hôtel de Ville	Sainte-Élizabeth-de-Warwick	Quebec	J0A 1M0	48.1046514	-77.7973547
+541	Écocentre Saint-Alphonse-Rodriguez		921 rte 343	Saint-Alphonse-Rodriguez	Quebec	J0K 1W0	 None	 None
+542	Écocentre Saint-Jacques-le-Mineur		263 boul. Edouard VII	Saint-Jacques-le-Mineur	Quebec	J0J 1Z0	46.1964886	-73.6959052
+543	Écocentre Château-Richer		30 Côte de la Chapelle	Château-Richer	Quebec	G0A 1N0	45.2741709	-73.4200834
+544	Sonic Informatique inc.	Ouvert lundi au mercredi 9 h à 18 h Jeudi et vendredi 9 h à 19 h Samedi 9 h à 16 h	101 boul. Cardinal-Léger #65	Pincourt	Quebec	J7W 3Y3	46.9744138	-71.0161612
+545	Poste de transbordement Saint-Zénon		120 rang Saint-François	Saint-Zénon	Quebec	J0K 3N0	45.3847432	-73.995264
+546	Déchetterie Saint-Camille-de-Lellis	Sur rendez-vous seulement. Les résidents peuvent déposer les PE à l'hôtel de ville à partir de la mi-novembre jusqu'à avril.	rue Fournier	Saint-Camille-de-Lellis	Quebec	G0R 2S0	 None	 None
+547	Fugitek	Ouvert du lundi au vendredi de 8 h 00 à 16 h 00	7653 rue Cordner	Montréal	Quebec	H8N 2X2	 None	 None
+548	Écocentre de Stoneham		100 ch. Plante	Stoneham-et-Tewkesbury	Quebec	G3C 0S4	45.4420703	-73.6300498
+549	Garage municipal l'Ascension-de-Patapédia		62 rue Principale	L'Ascension-de-Patapédia	Quebec	G0J 1R0	 None	 None
+550	Mini écocentre Saint-Isidore		202 rue Boyer	Saint-Isidore	Quebec	J0L 2A0	 None	 None
+551	Marceau Radio TV enr.		754 rte Bégin	Saint-Anselme	Quebec	G0R 2N0	45.3059236	-73.701113
+552	C.E.S. Informatique		216 rue des Oblats Ouest	Saguenay	Quebec	G7J 2B1	46.6306517	-70.9716691
+553	Électronique JFB		34 rte 271  Bureau 11	Saint-Éphrem-de-Beauce	Quebec	G0M 1R0	48.4175046	-71.0768763
+554	Stil Informatique		3699 boul. Dagenais Ouest	Laval	Quebec	H7P 5C9	46.0586477	-70.9535115
+555	Dépôt municipalité Sainte-Marthe		776 rue des Loisirs	Sainte-Marthe	Quebec	J0P 1W0	45.5734261	-73.818049
+556	Municipalité de Saint-Mathieu		311 ch. Saint-Édouard	Saint-Mathieu	Quebec	J0L 2H0	45.4075605	-74.3030987
+557	Services PIPC		483 9e rue Est	La Guadeloupe	Quebec	G0M 1G0	45.3114637	-73.5168284
+558	Cartouches Certifiées; Boutique		3813 rue Saint-Denis	Montréal	Quebec	H2W 2M4	45.9617025	-70.9366544
+559	Claude Fortier Radio-TV		540 8e rue Est	La Guadeloupe	Quebec	G0M 1G0	45.5195447	-73.5727567
+560	Mides Photocopieur		1092 rue Lévis bureau 4	Terrebonne	Quebec	J6W 4L1	45.9611434	-70.934336
+561	Cartouches Certifiées; Entrepôt		160 rue Saint-Viateur Est local #411	Montréal	Quebec	H2T 1A8	45.7129249	-73.6244118
+562	Écocentre Arthur-Gagnon		210 av. Marcel-Baril	Rouyn-Noranda	Quebec	J9X 7C1	 None	 None
+563	Caserne de pompier Saint-David	2e samedi du mois de mars, juin, septembre et décembre: 9h à 12h	41 rue Vue-du-Manoir	Saint-David	Quebec	J0G 1L0	48.2593056	-79.0078108
+564	Écocentre Ste-Émélie-de-l'Énergie		593 rang de la Seigneurie	Sainte-Émélie-de-l'Énergie	Quebec	J0K 2K0	45.956204	-72.85326
+565	Matériaux secs Canton de Hope		123 rte Whittom	Hope	Quebec	G0C 2K0	46.3213694	-73.6360407
+566	Ressourcerie Entraide Agapè		3275 ch. Royal	Québec	Quebec	G1E 1V8	48.0468829	-65.2280527
+567	Coopérative de solidarité ETC		445 rue Lacroix	La Tuque	Quebec	G9X 1V8	46.851715	-71.2099259
+568	Écocentre Disraeli	Résidents seulement	60 rue Industrielle	Disraeli	Quebec	G0N 1E0	47.4357275	-72.7778254
+569	Ressourcerie de la Matapédia		56 rue du Pont bureau 5	Amqui	Quebec	G5J 2P5	45.8930992	-71.3630207
+570	Garage municipal Shannon		79 ch. de Gosford	Shannon	Quebec	G0A 4N0	 None	 None
+571	Cartouches-Escompte inc.	Ouvert lundi au vendredi 9 h 30 à 17 h 00 Samedi et dimanche 9 h 30 à 12 h	3920 boul. Wilfrid-Hamel	Québec	Quebec	G1P 2J2	46.896433	-71.5287036
+572	Déchetterie municipale		120 rte du Président-Kennedy	Saint-Henri	Quebec	G0R 3E0	46.806329	-71.3153619
+573	Recyclage Frédérick Morin		1752 rue Saint-Cléophas	Saint-Gabriel-de-Brandon	Quebec	J0K 2N0	46.6807889	-71.0849143
+574	Garage municipal Saint-Roch-de-Richelieu		1111 rue du Parc	Saint-Roch-de-Richelieu	Quebec	J0L 2M0	46.2828431	-73.3790801
+575	Bureau municipal Saint-Barthélemy		1980 rue Bonin	Saint-Barthélemy	Quebec	J0K 1X0	45.8920556	-73.1641984
+576	Solutions Informatiques G.A. Inc.		13950 boul. Lacroix	Saint-Georges	Quebec	G5Y 1P8	 None	 None
+577	Solutions Informatiques G.A. Inc.		440 boul. Vachon Nord	Sainte-Marie	Quebec	G6E 1M1	46.1140251	-70.659083
+578	Microsys TM		2995 boul. Le Corbusier	Laval	Quebec	H7L 3M3	46.4445004	-71.0249052
+579	Beauce Informatek	Ouvert lundi au jeudi 9 h à 19 h Vendredi 9 h à 16 h Samedi 9 h à 12 h	34 rte 271 sud	Saint-Éphrem-de-Beauce	Quebec	G0M 1R0	45.582861	-73.7486871
+580	Écocentre de l'Ange-Gardien	Dernier samedi d'avril au dernier samedi d'octobre: Ouvert 8 h à 16 h	775 ch. Lucien Lefrançois	L'Ange-Gardien	Quebec	G0E 2K0	46.0590182	-70.9547867
+581	Northern village of Kuujjuaq		400 rue Airport-Road CP 210	Kuujjuaq	Quebec	J0M 1C0	46.9374141	-71.1057762
+582	Legault Électronique		789 rue Saint-Jean-Baptiste	Sainte-Martine	Quebec	J0S 1V0	58.1008076	-68.4113791
+583	Papeterie du Sagittaire 2003	Ouvert lundi au mercredi 8 h 30 à 17 h Jeudi et vendredi 8 h 30 à 18 h Samedi et dimanche fermés	1021 boul. Bécancour	Bécancour	Quebec	G9H 3T1	45.260979	-73.7892735
+584	COOPSCO Trois-Rivières		3351 boul. des Forges pavillon Albert Tessier local 1255A-T	Trois-Rivières	Quebec	G9A 5H7	46.4067478	-72.2649398
+585	Entreposage St-Sulpice		711 rue Notre-Dame	Saint-Sulpice	Quebec	J5W 3X1	46.3484063	-72.5759713
+586	Garage municipal Saint-Constant		25 montée LaSaline	Saint-Constant	Quebec	J5A 2A8	45.8100009	-73.3748593
+587	Garage municipal Delson	Ouvert lundi au jeudi 8 h 30 à 12 h oe13 h à 16 h 30 Vendredi 8 h 30 à 12 h	142 rue Fleming	Delson	Quebec	J5B 1X6	45.363473	-73.565034
+588	IT Experts	Ouvert lundi au vendredi 9 h à 21 h	444 boul. Saint-René Est bureau 100	Gatineau	Quebec	J8P 8A9	45.3734745	-73.5312553
+589	STR Micro	Ouvert lundi au mercredi 9 h à 18 h Jeudi et vendredi 9 h à 21 h Samedi 9 h 30 à 17 h Dimanche fermé	1950 ch. du Fer-à-Cheval local B	Sainte-Julie	Quebec	J3E 2T6	45.4927414	-75.6391095
+590	Canadian Tire; Chicoutimi	Pour connaître les heures d'ouvertures de ce magasin, visitez le site.	1257 boul. Talbot	Saguenay	Quebec	G7H 4C1	45.5753626	-73.3266204
+591	Garage municipal Ham-Sud		22 ch. Gosford Sud	Ham-Sud	Quebec	J0B 3J0	48.4080101	-71.0549943
+592	Canadian Tire; Jonquière	Pour connaître les heures d'ouvertures de ce magasin, visitez le site.	2290 boul. René-Lévesque	Saguenay	Quebec	G7S 5Y5	45.7523848	-71.6023657
+593	Écocentre Lac-des-Plages		2053 ch. du Tour du Lac	Lac-des-Plages	Quebec	J0T 1K0	48.4102091	-71.2143564
+594	Ressourcerie Transition inc.		196 rue Dorion	Drummondville	Quebec	J2C 1T9	45.9980194	-74.8876496
+595	Garage municipal Notre-Dame-de-la-Paix		219 rue Notre-Dame	Notre-Dame-de-la-Paix	Quebec	J0V 1P0	45.8839707	-72.4913573
+596	Wemindji ecocenter		86 Beaver	Wemindji	Quebec	J0M 1L0	45.8086791	-74.9689771
+597	Recyc Lav	Sur rendez-vous seulement	1058 rte Saint-Joseph	Saint-Flavien	Quebec	G0S 1N0	 None	 None
+598	Écoparc de Repentigny		336 rue Charles-Marchand	Repentigny	Quebec	J5Z 4P1	46.5091775	-71.5901949
+599	PSG Métal		175 boul. Louis XIV	Québec	Quebec	G2K 1W6	45.7580044	-73.484808
+600	CYBER 3d	Heure d'ouverture 8h00 à 17h00 Du lundi au vendredi	727 boul. Frontenac Ouest	Thetford Mines	Quebec	G6G 7X9	46.8504357	-71.2916938
+601	Écocentre Saint-Tite-des-Caps		374 av. Royale	Saint-Tite-des-Caps	Quebec	G0A 4J0	46.095626	-71.326945
+602	Écocentre de Trécesson		 ch. Desboues	Trécesson	Quebec	J0Y 2S0	47.148419	-70.7675485
+603	Maison Le Ricochet		9 ch. De la Beurrerie	La Pûche	Quebec	J0X 2W0	48.660767	-78.361487
+604	Garage municipal Deux-Montagnes	Avril à novembre : 1er samedi du mois: 9h à 15h	625 20e Avenue	Deux-Montagnes	Quebec	J7R 7E9	45.6456335	-76.0148817
+605	Garage municipal Fassett		1 rue Boucher	Fassett	Quebec	J0V 1H0	45.5433546	-73.9170378
+606	Centre de tri EBI Environnement inc.		1481 rue Raoul-Charette	Joliette	Quebec	J6E 8S5	45.6460906	-74.8052414
+607	Écocentre Sainte-Marcelline-de-Kildare		391 rang Pied de la Montagne	Sainte-Marcelline-de-Kildare	Quebec	J0K 2Y0	 None	 None
+608	Lieu d?enfouissement en tranchée de Matagami		ch. du lac Matagami	Matagami	Quebec	J0Y 2A0	46.1181946	-73.5968079
+609	CGL Micro inc.	Lundi au mercredi : 8h30 à 17h30 Jeudi et vendredi 8h30 à 20h00 Samedi 10h00 à 16h00 (fermé le samedi pendant l'été)	199 rue Saint-Paul	Repentigny	Quebec	J5Z 2H9	49.775651	-77.637778
+610	InfoEstrie Senc.	Heures d'ouvertures: 8 h à 17 h	90 rue Main	North Hatley	Quebec	J0B 2C0	45.7563613	-73.4781085
+611	Ramasse.ca inc.		10800 rue Cantin	Montréal	Quebec	H1G 6P7	45.2753405	-71.9735633
+612	L'Entraide (Pont-Viau et Laval-des-Rapides) inc.		664 rue Saint-André	Laval	Quebec	H7G 3A5	45.599485	-73.6193979
+613	Microrama Informatique inc.	Heures d'ouverture: 8 h 30 à 17 h	99 rue Edouart-Ellis	Gatineau	Quebec	J8P 4X7	45.574325	-73.693707
+614	Garage municipal Sainte-Élisabeth		2270 rue Principale	Sainte-Élisabeth	Quebec	J0K 2J0	45.4801782	-75.6449635
+615	Infoteck		2563 boul. des Hûtres	Shawinigan	Quebec	G9N 3A6	46.0954764	-73.3507853
+616	Textil'Art		2615 boul. Le Corbusier	Laval	Quebec	H7S 2E8	46.5617088	-72.7438466
+617	Garage municipal de Wemotaci		60 rue Kenosi	Wemotaci	Quebec	G0X 3R0	45.578568	-73.74355
+618	Canadian Tire; La Baie no 335	Pour connaître les heures d'ouvertures de ce magasin, visitez le site.	2300 rue Bagot	Saguenay	Quebec	G7B 3Z3	47.901753	-73.7824614
+619	Garage municipal Opitciwan		1 rue Opitciwan	Obedjiwan	Quebec	G0W 3B0	48.3361384	-70.8986824
+620	Garage municipal Manawan		121 rue Mistassini	Manawan	Quebec	J0K 1M0	48.6562841	-74.9407217
+621	Renaissance; Librairie Chambly-Rémillard (Rive-Sud)		2590 ch. Chambly	Longueuil	Quebec	J4L 1M5	47.2219034	-74.3922577
+622	Renaissance; Librairie île-Perrot		106 boul. Don-Quichotte unité 22	L'île-Perrot	Quebec	J7V 6L7	45.5230456	-73.4671074
+623	Renaissance; Centre de don Somerled		6252 av. Somerled	Montréal	Quebec	H3X 2B6	45.3869456	-73.9628835
+624	Renaissance; Centre de don Jolibourg; Ouest de Laval		1263 boul. Jolibourg	Laval	Quebec	H7Y 1Z8	 None	 None
+625	Renaissance; Centre de don Blainville; Rive-Nord		1083 boul. Curé-Labelle local 107	Blainville	Quebec	J7C 3M9	45.52406	-73.852245
+626	Renaissance; Fripe-Prix Montréal-Nord		5500 boul. Henri-Bourassa Est	Montréal	Quebec	H1G 2T2	45.6766731	-73.8863607
+627	Terrapure Environnement- Installation de Rouyn-Noranda		133 av. Marcel-Baril	Rouyn-Noranda	Quebec	J9X 7B9	45.6049653	-73.6220473
+628	Travaux publics; Beaconsfield		300 boul. Beaurepaire	Beaconsfield	Quebec	H9W 3C1	48.2595512	-79.0157287
+629	Renaissance; Centre de don Sainte-Julie		1615 ch. du Fer-À-Cheval	Sainte-Julie	Quebec	J3E 1G3	45.4287367	-73.8679737
+630	Terrapure Environnement- Installation de Rimouki		195 rue des Négociants	Rimouski	Quebec	G5M 1B7	45.5864686	-73.3272235
+631	Terrapure Environnement- Installation de Laterrière		3500  Chemin du Plateau Sud	Saguenay	Quebec	G7N 1L9	48.4620369	-68.5029527
+632	InfoXtreme		5308 rue Principale	Saint-Félix-de-Valois	Quebec	J0K 2M0	48.340515	-71.0159226
+633	Garage municipal Berthierville		610 rue Saint-Viateur	Berthierville	Quebec	J0K 1A0	46.168088	-73.4360572
+634	Centre de multirecyclage		105 rue Blanchard	Sainte-Thérèse	Quebec	J7E 4N4	46.0839958	-73.1785362
+635	Garage municipal Saint-Narcisse		353 rue Notre-Dame	Saint-Narcisse	Quebec	G0X 2Y0	45.6346282	-73.8408631
+636	Terrapure Environnement- Installation de Châteauguay		125 rue Bélanger	Châteauguay	Quebec	J6J 4Z2	46.5624909	-72.4748097
+637	Écocentre Saint-Zotique		2050 rue Principale	Saint-Zotique	Quebec	J0P 1Z0	45.3497965	-73.695063
+638	Écocentre Lac-Simon		123 ch. Du Parc	Lac-Simon	Quebec	J0V 1E0	 None	 None
+639	Garage municipal Saint-Côme		1195 39e rue	Saint-Côme	Quebec	J0K 2B0	 None	 None
+640	Renaissance; Centre de distribution et de liquidation		5900 rue Ferrier	Montréal	Quebec	H4P 1M7	46.2752736	-73.7687292
+641	Entreprise Recyclage Ungava		925 3e rue	Chibougamau	Quebec	G8P 1R4	 None	 None
+642	Kahnawake Mohawk Territory- Transfer Depot		P.O. Box 1089	Kahnawake	Quebec	J0L 1B0	49.910138	-74.3874799
+643	Garage des travaux publics	Heures d'ouverture: Lundi au jeudi : 8h à 12h et 13h à 16h30. Vendredi : 8h à 12h.	300 rue Surrey	Baie-D'Urfé	Quebec	H9X 2E7	45.4008401	-73.6628847
+644	Bureautech Laurentides inc.		323 rue de la Madone	Mont-Laurier	Quebec	J9L 1R8	45.4200234	-73.9110933
+645	Écocentre de Saint-Ferréol-les-Neiges	1er avril au 1er décembre Jeudi et vendredi de 11h à 16h Samedi de 10h à 17h	4054 av. Royale	Saint-Ferréol-les-Neiges	Quebec	G0A 3R0	46.550695	-75.504129
+646	Écocentre de Lambton	Horaire: Mai à octobre. Samedi: 8h à 12h.	176 rang Saint-Michel	Lambton	Quebec	G0M 1H0	47.1294162	-70.8426357
+647	TDI Solutions inc.		1520 av. 55e	Montréal	Quebec	H8T 3J5	45.8413893	-71.1009977
+648	Conseil régional de l'environnement de Laval		3235 boul. Saint-Martin Est bureau 218	Laval	Quebec	H7E 5G8	45.452253	-73.72181
+649	Centre de tri de Chicoutimi (Matrec)		1185 rue Antonio-Lemaire	Saguenay	Quebec	G7K 1J2	45.604911	-73.678179
+650	Informatique Sylvain Patry		11 rue Vaillancourt	Gracefield	Quebec	J0X 1W0	48.3877338	-71.1097293
+651	Services Info Comm		90 boul. Notre-Dame	Clermont	Quebec	G4A 1C7	46.0939514	-76.0536894
+652	Écocentre de Rigaud		32 rue de la Coopérative	Rigaud	Quebec	J0P 1P0	 None	 None
+653	Garage municipal Sainte-Marthe-sur-le-Lac		2960 boul. des Promenades	Sainte-Marthe-sur-le-Lac	Quebec	J0N 1P0	 None	 None
+654	Garage municipal d'Entrelacs		2271 ch. d'Entrelacs	Entrelacs	Quebec	J0T 2E0	45.5307675	-73.9333776
+655	Stéréo Plus; Val d'Or		1817  3e-Avenue	Val-d'Or	Quebec	J9P 7A9	46.1064497	-74.0021866
+656	Renaissance; Centre de don Jarry		1460 rue Jarry Est	Montréal	Quebec	H2E 1A9	 None	 None
+657	Écocentre Saint-Laurent	ICI: Quantité limité à 1 mètre cube par jour	3535 rue Sartelon	Montréal	Quebec	H4R 1E6	45.5514121	-73.6204085
+658	Centre d'ordinateurs S.T.O.		1415 rue Frank-Carrel	Québec	Quebec	G1N 4N7	 None	 None
+659	Bazar Sainte-Rose	Appeler pour connaître les heures d'ouverture	186 boul. Sainte-Rose bureau B	Laval	Quebec	H7L 1L4	 None	 None
+660	Écocentre Salaberry-de-Valleyfield		2575 boul. Mgr-Langlois	Salaberry-de-Valleyfield	Quebec	J6S 5P7	 None	 None
+661	MultiRecycle		31 boul. Saint-Joseph	Montréal	Quebec	H8S 2K9	 None	 None
+662	Garage municipal de Beaumont		48 ch. du Domaine	Beaumont	Quebec	G0R 1C0	45.4398933	-73.652613
+663	Entreprise École Recypro		70 rue Simon	Lachute	Quebec	J8H 3R8	 None	 None
+664	Écocentre de Saint-Hubert-de-Rivière-Du-Loup		151 1er Rang Est	Saint-Hubert-de-Rivière-du-Loup	Quebec	G0L 3L0	 None	 None
+665	Écocentre de La Pocatière		410 14e rue	La Pocatière	Quebec	G0L 3L0	47.8519354	-69.1548855
+666	Renaissance; Centre de don Place Vilamont		1857 boul. René-Laennec	Laval	Quebec	H7M 5E2	 None	 None
+667	Éco-quartier Montréal Nord		10861 boul. Pie-IX	Montréal	Quebec	H1H 4A9	 None	 None
+668	La Ressourcerie de Portneuf		736 av. Principale	Saint-Marc-des-Carrières	Quebec	G0A 4B0	45.5909838	-73.6370701
+669	Electro-5 inc.	Du lundi au vendredi de 7h30 à 17h30	4135 boul. Industriel	Sherbrooke	Quebec	J1L 2S7	46.6790322	-72.0435067
+670	Déchetterie Saint-Magloire		160 rte 281	Saint-Magloire	Quebec	G0R 3M0	45.396429	-71.966407
+671	Écocentre Notre-Dame-de-Montauban		505 av. des Loisirs	Notre-Dame-de-Montauban	Quebec	G0X 1W0	46.5780292	-70.29741
+672	Garage municipal Sainte-Béatrix	Mai à octobre seulement	1305 rang Sainte-Cécile	Sainte-Béatrix	Quebec	J0X 1Y0	46.8772213	-72.3078174
+673	Écocentre Saint-Lambert-de-Lauzon		515 rue Saint-Aimé	Saint-Lambert-de-Lauzon	Quebec	G0S 2W0	46.210471	-73.6291235
+674	Renaissance; Centre de don Cousineau		6250 boul. Cousineau bureau 103A	Longueuil	Quebec	J3Y 8X9	46.5962217	-71.2747735
+675	Écocentre Saint-Rémi		284 rue de L?Église	Saint-Rémi	Quebec	J0L 2L0	 None	 None
+676	Centre de tri Mélimax inc.		222 boul. Industriel	Châteauguay	Quebec	J6J 4Z2	45.2625624	-73.631025
+677	Renaissance; Librairie Bélanger		5872 rue Bélanger	Montréal	Quebec	H1T 1G6	45.353462	-73.6899848
+678	Fleet Informatique		134 rue Baby	Joliette	Quebec	J6E 2V5	 None	 None
+679	Garage municipal Saint-Adalbert		106 rue Principale	Saint-Adalbert	Quebec	G0R 2W0	46.031369	-73.436723
+680	Écocentre Tricomm		550 ch. de la Gare	Schefferville	Quebec	G0G 2T0	 None	 None
+681	Renaissance; Fripe-Prix Galeries Normandie		2670 rue de Salaberry local 2670 & 2674	Montréal	Quebec	H3M 1L3	54.8247246	-66.8589236
+682	Municipalité de La Macaza		53 rue des Pionniers	La Macaza	Quebec	J0T 1R0	45.541561	-73.69514
+683	Renaissance; Librairie Fleury-Hamel		1499 boul. Fleury Est	Montréal	Quebec	H2C 1S3	46.3710027	-74.7724456
+684	3R Québec inc.	Entrée sur la rue Napoléon-Groulx	310 rue Notre-Dame bureau B	Gatineau	Quebec	J8P 1L1	45.5623676	-73.65686
+685	Kangiqsujuaq Co-op		  Kangiqsujuaq	Kangiqsujuaq	Quebec	J0M 1K0	45.4813612	-75.6438108
+686	Kangirsuk Co-op		  Kangirsuk	Kangirsuk	Quebec	J0M 1A0	 None	 None
+687	Inukjuak Co-op		  Inukjuak	Inukjuak	Quebec	J0M 1M0	60.023415	-70.0262349
+688	Kuujjuarapik Co-op		  Gd	Kuujjuarapik	Quebec	J0M 1G0	58.455121	-78.1051028
+689	Écocentre Deschaillons		1995 rte Marie-Victorin	Deschaillons-sur-Saint-Laurent	Quebec	G0S 1G0	 None	 None
+690	Éco-quartier Lachine		735 rue Notre-Dame	Montréal	Quebec	H8S 2B5	46.5478048	-72.1316728
+691	Bedirect inc.		640 boul. Industriel suite 103	Saint-Jean-sur-Richelieu	Quebec	J3B 7X4	45.4345934	-73.6704304
+692	Écocentre Saint-Alexis-des-Monts	Ouvert du 15 juin au 1er novembre	606 rte 349	Saint-Alexis-des-Monts	Quebec	J0K 1V0	 None	 None
+693	PureSphera inc.		4170 boul. la Prade suite 100	Bécancour	Quebec	G9H 0B6	46.446791	-73.1499001
+694	Salluit Co-op		  GD	Salluit	Quebec	J0M 1S0	46.393591	-72.325781
+695	Micro-écocentre de Deschambault-Grondines		11 boul. des Sources	Deschambault-Grondines	Quebec	G0A 1S0	 None	 None
+696	Ovation Logistique inc.		1665 rue Atmec	Gatineau	Quebec	J8R 3Y2	46.6879652	-71.9414449
+697	GLC Audio Vidéo		249 rue de la Madone	Mont-Laurier	Quebec	J9L 1R3	45.5117374	-75.5675373
+698	Grands Frères Grandes S?urs de l'Outaouais		195 rue Devault unité 10	Gatineau	Quebec	J8Z 1S7	46.5498647	-75.5063083
+699	Shopper + inc.		2210 av. 52e	Montréal	Quebec	H8T 2Y3	45.4633442	-75.7365872
+700	Entreprises Century Laser	Heures d'affaires : de 8 h 30 à 17 h 00	8074 rte Transcanadienne	Montréal	Quebec	H4S 1M5	 None	 None
+701	Garage municipal Sainte-Geneviève-de-Batiscan		33 rue Saint-Charles	Sainte-Geneviève-de-Batiscan	Quebec	G0X 2R0	45.4884796	-73.719821
+702	COOPSCO F.X. Garneau		1660 boul. de l'Entente	Québec	Quebec	G1S 4S3	46.5325493	-72.3389751
+703	Renaissance; Centre de don Marcel-Laurin		1545 boul. Marcel-Laurin bureau 1	Montréal	Quebec	H4R 0B7	46.792343	-71.2647999
+704	Fonderie Horne		101 av. Portelance	Rouyn-Noranda	Quebec	J9X 5B6	45.5158397	-73.6965592
+705	Renaissance; Centre de don Chambly Leblanc		1148 ch. de Chambly	Longueuil	Quebec	J4J 3W5	 None	 None
+706	Centre Hi-Fi Chicoutimi		1840 boul. Talbot	Saguenay	Quebec	G7H 7Y2	45.533081	-73.4915369
+707	Informatique Bromont		50 ch. de Gaspé	Bromont	Quebec	J2L 2N8	48.3959197	-71.0695403
+708	Groupe Focus Communications		17230 av. Saint-Louis	Saint-Hyacinthe	Quebec	J2T 3G7	45.3159619	-72.65786
+709	Garage municipal de Sainte-Anne-de-la-Pérade		200 rue Principale	Sainte-Anne-de-la-Pérade	Quebec	G0X 2J0	45.6196143	-72.9264169
+710	Centre-Hi-Fi Ste-Agathe		217 rue Principale Est	Sainte-Agathe-des-Monts	Quebec	J8C 1K5	46.5688	-72.211101
+711	Écocentre Beauharnois		50 rue des Hauts-Fourneaux	Beauharnois	Quebec	J6N 1Y1	46.0451992	-74.2785491
+712	LML Technologie inc. oeAMJ Montréal		1255 av. 32ème	Montréal	Quebec	H8T 3H2	45.3100386	-73.8867577
+713	Dépôt Abénakis Wôlinak		10275 rue Leblanc bureau 109	Wôlinak	Quebec	G0X 1B0	45.4550008	-73.698845
+714	Informatique Commerciale du Suroît inc.		1615 ch. Daoust bureau 100	Vaudreuil-Dorion	Quebec	J7V 0Z8	46.3276823	-72.4228672
+715	Électrobac-Centre de Commerce Mondial; Ivanhoé Cambridge	Devant la Banque Scotia, près de la sortie vers le Métro Square Victoria	747 rue du Square-Victoria	Montréal	Quebec	H2Y 3Y9	45.4240612	-74.1255342
+716	Électrobac-Immobilière Banque Nationale	À l'entrée Rue de la Gauchetière Ouest, dans le hall, à gauche	600 rue de la Gauchetière Ouest 2e étage	Montréal	Quebec	H3B 4L2	45.5020089	-73.5605637
+717	Électrobac-Loto-Québec	Au rez-de-chaussée, contre le mur qui est dos au poste de garde, à côté du bac multimatières et de piles	500 rue Sherbrooke Ouest	Montréal	Quebec	H3A 3C6	45.5017542	-73.5639318
+718	Électrobac-HEC Montréal; Édifice Decelles	Devant le registrariat; Édifice Decelles	5255 av. Decelles	Montréal	Quebec	H3T 2B1	 None	 None
+719	Électrobac-Jardin botanique; Espace pour la vie	Dans le complexe d'accueil du Jardin botanique	4101 rue Sherbrooke Est	Montréal	Quebec	H1X 2B2	45.497399	-73.6183991
+720	Électrobac-Cepsum; Université de Montréal	Entrée principale du Cepsum, au pied de l'escalier	2100 boul. Édouard-Montpetit	Montréal	Quebec	H3T 1J4	45.5576037	-73.5569701
+721	Électrobac-Pavillon André-Aisenstadt; Université de Montréal	Entrée principale du pavillon André-Aisenstadt	2920 ch. de la Tour	Montréal	Quebec	H3T 1N8	45.5088535	-73.6122036
+722	Électrobac-Pavillon Jean-Brillant; Université de Montréal	À droite, dans l'entrée principale du pavillon Jean-Brillant	3200 rue Jean-Brillant	Montréal	Quebec	H3T 1N8	45.5010087	-73.6157778
+723	Électrobac-HEC Montréal; Édifice Côte-Sainte-Catherine	À droite, dans l'entrée Louis-Colin; Édifice Côte-Sainte-Catherine	3000 ch. de la Côte-Sainte-Catherine	Montréal	Quebec	H3T 2A7	45.4985045	-73.6183983
+724	Les entreprises Gilles Plamondon ltée; La Clef de Sol		592 rue Saint-Joseph	Saint-Raymond	Quebec	G3L 1L1	45.50333	-73.6206714
+725	Électrobac-Maison du développement durable	À gauche, dans le vestibule d'entrée	50 rue Sainte-Catherine Ouest	Montréal	Quebec	H2X 3V4	46.8941179	-71.8267145
+726	Électrobac-Pavillon Roger-Gaudry; Université de Montréal	Entrée U-1 du pavillon Roger-Gaudry	2900 boul. Édouard-Montpetit	Montréal	Quebec	H3T 1J4	45.5091382	-73.5638449
+727	Électrobac-Pavillon Marie-Victorin; Université de Montréal	Entrée principale du pavillon Marie-Victorin, à droite de la photocopieuse	90 av. Vincent-d'Indy	Montréal	Quebec	H2V 2J7	 None	 None
+728	Garage municipal Lavaltrie		275 rue Notre-Dame	Lavaltrie	Quebec	J5T 1N8	45.510392	-73.611875
+729	Vert Vert PC		153 rue 7ème	Rouyn-Noranda	Quebec	J9X 1Z8	45.8585957	-73.3060421
+730	Écocentre MRC Pierre-De Saurel		3145 rue Joseph-Simard	Sorel-Tracy	Quebec	J3R 0E3	48.2480026	-79.0165385
+731	Garage municipal de Sainte-Florence		6 rue des Loisirs	Sainte-Florence	Quebec	G2J 2M0	46.0018454	-73.1664733
+732	Portage-du-Fort; Salle municipale		24 rue Church	Portage-du-Fort	Quebec	J0X 2T0	48.2636934	-67.2371022
+733	Renaissance; Fripe-Prix Saint-Martin		965 boul. Curé-Labelle	Laval	Quebec	H7V 2V7	45.5920684	-76.6660279
+734	Bo Mont Expert	Lundi au vendredi 8h à 17h	482 boul. Taché Est	Montmagny	Quebec	G5V 1E2	45.5428738	-73.7489594
+735	Dépanne-TOUT		903 boul. du Curé-Boivin	Boisbriand	Quebec	J7G 2S8	46.9907211	-70.5242981
+736	Garage Martin St-Onge		2745 rte 235	Saint-Pie	Quebec	J0H 1W0	45.625953	-73.833507
+737	Renaissance; Librairie Saint-Luc		240 boul. Saint-Luc local 1A	Saint-Jean-sur-Richelieu	Quebec	J2W 1C2	45.4904111	-72.9080916
+738	Renaissance; Librairie Faubourg des Prairies		12451 boul. Rodolphe-Forget local B	Montréal	Quebec	H1E 0A2	 None	 None
+739	Tardif Électronique inc.		214 rue du Manoir	Cap-Saint-Ignace	Quebec	G0R 1H0	 None	 None
+740	Garage municipal de Saint-Apollinaire		85 rue des Vignes	Saint-Apollinaire	Quebec	G0S 2E0	47.0432183	-70.4551222
+741	Garage municipal Saint-Marcel		35 rue des Loisirs	Saint-Marcel	Quebec	G0R 3R0	46.6085574	-71.4984017
+742	Ancienne école Saint-Damase-de-L'Islet		167 rte 204	Saint-Damase-de-L'Islet	Quebec	G0R 2X0	46.8969478	-70.0645393
+743	Électrobac-Place Rosemère; Morguard	Au kiosque d'information	401 boul. Labelle	Rosemère	Quebec	J7A 3T2	46.8884279	-69.8777569
+744	Électrobac-Les Jardins Dorval; Strathallen	À l'entrée sur Avenue Carson, en face de la SAQ	352 av. Dorval bureau 208	Dorval	Quebec	H9S 3H8	45.6306724	-73.8192093
+745	Électrobac-Metro Wilderton (Alimantation Normand Hudon)	Dans le vestibule d'entrée	2875 av. Van Horne	Montréal	Quebec	H3S 1P6	45.4441673	-73.7415262
+746	Électrobac-Metro Marcanio	Dans le hall d'entrée	1550 rue Bélanger	Montréal	Quebec	H2G 1A9	45.508551	-73.6257812
+747	Électrobac-Metro Plus Marché J.C. Messier Auteuil; Metro Groupe Messier	Après les caisses, tout juste avant la sortie	5000 boul. des Laurentides	Laval	Quebec	H7K 2J5	45.5453854	-73.6040377
+748	Électrobac-Metro Plus Dépatie	À côté de la porte de sortie	1100 boul. de l'Avenir	Laval	Quebec	H7N 6L2	45.6196953	-73.7461209
+749	Électrobac-Université de Sherbrooke; Campus Longueuil	Au 2e étage devant le poste de sécurité	150 place Charles-LeMoyne	Longueuil	Quebec	J4K 0A8	45.562201	-73.723959
+750	Électrobac-IGA Extra Alimentation C.C. Sévigny	À côté de la porte de sortie	5805 boul. Robert-Bourassa	Laval	Quebec	H7E 0A4	45.5248244	-73.5213151
+751	Électrobac-Metro Plus Drouin Longueuil	Dans le corridor de sortie vers le stationnement arrière	395 rue Saint-Charles Ouest	Longueuil	Quebec	J4H 1G1	45.6127302	-73.6985908
+752	Électrobac-IGA Marchés Louise Ménard; Saint-Lambert	À l'entrée principale de l'épicerie, à côté du guichet automatique	299 boul. Sir-Wilfrid-Laurier	Longueuil	Quebec	J4R 2L1	45.5360244	-73.5139573
+753	Électrobac-IGA Marchés Louise Ménard; île des Soeurs	Dans le hall d'entrée	30 place du Commerce	Montréal	Quebec	H3E 1V7	45.4934643	-73.5017242
+754	Électrobac-Metro Plus Marché Central C.J.C.; Metro Groupe Messier	Après les caisses vers la sortie	2642 ch. de Chambly	Longueuil	Quebec	J4L 1M5	45.4681014	-73.5397377
+755	Électrobac-Mail Champlain 2- Cominar	Dans le corridor de sortie # 2, en face du H&amp;M	2151 boul. Lapinière	Brossard	Quebec	J4W 2T5	45.5220951	-73.4662871
+756	Électrobac-Mail Champlain; Cominar	Au kiosque d'information	2151 boul. Lapinière	Brossard	Quebec	J4W 2T5	45.4715857	-73.4716105
+757	Électrobac-Metro Plus de la Montagne oeAlimentation Sylvain Bolduc	À la sortie de l'épicerie, dans le hall, en face des escaliers	1230 rue Notre-Dame Ouest	Montréal	Quebec	H3C 1K6	45.4715857	-73.4716105
+758	Électrobac-Domtar inc.	Au comptoir postal	395 boul. de Maisonneuve Ouest	Montréal	Quebec	H3A 1L6	45.4932387	-73.5642154
+759	Électrobac-Students' Society of McGill University (SSMU)	Dans le hall d'entrée de l'Édifice SSMU-McGill, à gauche des escaliers	3600 rue McTavish	Montréal	Quebec	H3A 0E7	45.5065267	-73.570063
+760	Électrobac-Campus de Laval; Université de Montréal	À côté des ascenseurs, contre la cage d'escalier	1700 rue Jacques-Tétreault	Laval	Quebec	H7N 0B6	 None	 None
+761	Électrobac-Campus avenue du Parc; Université de Montréal	À l'entrée du Campus du Parc	7077 av. du Parc	Montréal	Quebec	H3N 1X7	45.5585352	-73.7211157
+762	Électrobac-École de Technologie Supérieure (ÉTS); Pavillon A	À droite, dans le hall d'entrée du Pavillon principal A	1100 rue Notre-Dame Ouest	Montréal	Quebec	H3C 1K3	45.5299706	-73.6200993
+763	Électrobac-École de Technologie Supérieure (ÉTS); Pavillon B	Dans le hall d'entrée du Pavillon B, à gauche du Tim Hortons	1111 rue Notre-Dame Ouest	Montréal	Quebec	H3C 1K3	45.4951636	-73.5628144
+764	Électrobac-Cégep André Laurendeau	Dans le pavillon principal, à côté du guichet automatique	1111 rue Lapierre	Montréal	Quebec	H8N 2J4	45.4947732	-73.563787
+765	Électrobac-Metro Plus André-Grasset; Metro Groupe Messier	Avant la sortie, face aux caisses	8935 av. André-Grasset	Montréal	Quebec	H2M 2E9	45.4367832	-73.6054616
+766	Électrobac-Complexe Desjardins	Dans le corridor menant au métro Place D'Armes	150 rue Sainte-Catherine Ouest	Montréal	Quebec	H2X 3Y2	45.5583407	-73.6368367
+767	Électrobac-Complexe Desjardins 2	Corridor Métro Place des Arts, à côté du magasin Lilliane	150 rue Sainte-Catherine Ouest	Montréal	Quebec	H2X 3Y2	45.5075108	-73.564439
+768	Électrobac-Collège de Maisonneuve	À côté de la COOP	3800 rue Sherbrooke Est	Montréal	Quebec	H1X 2A2	45.5075108	-73.564439
+769	Électrobac-Palais des Congrès de Montréal	Dans le passage St-François-Xavier	159 rue Saint-Antoine Ouest	Montréal	Quebec	H2Z 1H2	45.551088	-73.553539
+770	Électrobac-Polytechnique Ancien Pavillon	6e étage du pavillon Lassonde, sous l'escalier en face des laboratoires informatiques	2700 ch. de la Tour	Montréal	Quebec	H3T 1J4	45.5047546	-73.5600245
+771	Électrobac-Pavillon Henry F. Hall; Concordia	H immeuble, Pavillon rue Maisonneuve, au deuxième étage	1455 boul. de Maisonneuve	Montréal	Quebec	H3G 1M8	45.5041639	-73.6158487
+772	Électrobac-IGA Marchés Louise Ménard; Complexe Desjardins	Face aux caisses, à l'entrée oesortie de l'épicerie, via le Complexe Desjardins	150 rue Sainte-Catherine Ouest	Montréal	Quebec	H2X 3Y2	45.4972727	-73.5790238
+773	Électrobac-Pavillon JMSB; Concordia	Dans le hall d'entrée de John Molson School of Business	1450 rue Guy	Montréal	Quebec	H3H 1J5	 None	 None
+774	Électrobac-Tour Jean-Talon; Bell Canada	À droite de la boutique Bell	600 rue Jean-Talon Est	Montréal	Quebec	H2R 3A8	45.4952779	-73.5790443
+775	Électrobac-700 de la Gauchetière (Tour Aon); Bell Canada	Dans l'accueil; près des ascenseurs	700 rue de la Gauchetière Ouest	Montréal	Quebec	H3B 5M2	45.5392036	-73.6130267
+776	Électrobac-1000 de la Gauchetière; Ivanhoé Cambridge	À la sortie du Metro Bonaventure, sortie rue de la Gauchetière	1000 rue de la Gauchetière Ouest	Montréal	Quebec	H3B 4W5	45.5010146	-73.5644801
+777	Électrobac-1000 de la Gauchetière 2- Ivanhoé Cambridge	À la sortie du Metro Bonaventure, dans l'aréna, sur le bord de la patinoire	1000 rue de la Gauchetière Ouest	Montréal	Quebec	H3B 2B6	 None	 None
+778	Électrobac-5 place Ville-Marie ; Ivanhoé Cambridge	Sortie rue McGill College	5 place Ville-Marie	Montréal	Quebec	H3B 5M1	45.4981798	-73.5663826
+779	Électrobac-Galeries Terrebonne; Westcliff	Situé à la porte 2 devant le bureau d?administration	1185 boul. Moody	Terrebonne	Quebec	J6W 3Z5	45.5006913	-73.5695399
+780	Électrobac-Place des arts	Dans le corridor vers le Métro	260 boul. de Maisonneuve Ouest	Montréal	Quebec	H2X 1Y9	 None	 None
+781	Électrobac-Metro Plus Domaine	À gauche de la porte de sortie	6550 rue Sherbrooke Est	Montréal	Quebec	H1N 1C6	45.5087317	-73.5671546
+782	Électrobac-IGA Marché du Faubourg; Greenfield Park	À droite de la porte de sortie	300 rue Auguste	Longueuil	Quebec	J4V 3R4	45.582119	-73.5427374
+783	Électrobac-IGA Extra Supermarché Gilles Bariteau inc.	À droite de la porte de sortie, à côté de la machine à cannettes	6250 boul. Cousineau	Longueuil	Quebec	J3Y 8X9	 None	 None
+784	Électrobac-IGA Extra Marché d'alimentation Martin Lamarre	Après les caisses, à côté de la machine Redbox	3260 boul. Lapinière	Brossard	Quebec	J4Z 3L8	45.4942286	-73.4073175
+785	Électrobac-IGA Extra Supermarché Picard inc.	À droite de la porte de sortie	9105 boul. Taschereau	Brossard	Quebec	J4Y 3B8	 None	 None
+786	Électrobac-Metro Plus Cardinal Ste-Catherine	À droite de la porte de sortie	5480 boul. Saint-Laurent	Sainte-Catherine	Quebec	J5C 1A9	 None	 None
+787	Électrobac-Hôpital Pierre Boucher	À l'entrée principale, près de la borne de stationnement	1333 boul. Jacques-Cartier Est	Longueuil	Quebec	J4M 2A5	45.4004074	-73.5743388
+788	Électrobac-IGA Marché Montée Gagnon inc.	Dans le vestibule de sortie, à côté du téléphone Bell	50 montée Gagnon	Bois-des-Filion	Quebec	J6Z 2L1	 None	 None
+789	Électrobac-IGA Quintal Marché des Oiseaux	Après les caisses, devant les portes de sortie	380 boul. Curé-Labelle	Laval	Quebec	H7L 4T7	 None	 None
+790	Électrobac-Provigo Cavendish	Contre le mur, après les caisses	6485 rue Sherbrooke Ouest	Montréal	Quebec	H4B 1N3	45.5930917	-73.7860625
+791	Électrobac-IGA Extra Alimentation E.F.Y. Caron inc.	À la sortie, après les caisses	3701 boul. Saint-Charles	Kirkland	Quebec	H9H 4M2	45.4642373	-73.6289259
+792	Électrobac-Metro Plus Kirkland	Dans le vestibule de sortie, à côté de la fontaine à eau	3801 boul. Saint-Charles	Kirkland	Quebec	H9H 4M4	 None	 None
+793	Électrobac-Provigo Alimentation Francis Deroo	À la droite de la porte de sortie	90 rue Morgan	Baie-D'Urfé	Quebec	H9X 3A8	45.4615942	-73.8656051
+794	Électrobac-Tour Transat; Redbourne	Au rez-de-chaussée, sur la colonne en haut des escaliers mécaniques	300 rue Léo-Pariseau	Montréal	Quebec	H2X 4C2	45.4173496	-73.916588
+795	Électrobac-IGA Supermarché DJS Cousineau Inc.	Dans l'antichambre, devant la porte de sortie	455 boul. Jean-Paul-Vincent	Longueuil	Quebec	J4G 1R3	45.5112246	-73.57664
+796	Électrobac-IGA Supermarché du Carrefour inc.	Après les caisses, tout juste avant la sortie	1777 route 132	Varennes	Quebec	J3X 1T6	 None	 None
+797	Électrobac-Carrefour Angrignon; Wescliff	Dans la cour principale, à côté du GAB	7077 boul. Newman	Montréal	Quebec	H8N 1X1	45.6689359	-73.4315429
+798	Électrobac-IGA Marché Drolet et Paquette	À la sortie du magasin	12 place de la Triade	Montréal	Quebec	H9R 0A2	 None	 None
+799	Électrobac-IGA Supermarché Don Quichotte	Dans l'antichambre, tout juste avant la sortie	110 boul. Don Quichotte	L'île-Perrot	Quebec	J7V 6L7	 None	 None
+800	Électrobac-Tour Telus; Redbourne Properties	Au niveau de la promenade, à côté des escaliers mécaniques	630 boul. René-Lévesque Ouest	Montréal	Quebec	H3B 3C1	45.3868326	-73.9610288
+801	Électrobac-Marché Plus St-Joseph; Metro Groupe Messier	Après les caisses, tout juste avant la sortie	3600 boul. Saint-Joseph Est	Montréal	Quebec	H1X 1W6	45.5019855	-73.5665081
+802	Électrobac-Marché Sabrevois Boucherville; Metro Groupe Messier	Tout juste après les caisses, dans le corridor menant à la sortie	535 rue Samuel-de-Champlain	Boucherville	Quebec	J4B 6B6	45.5517044	-73.5641308
+803	Électrobac-Metro Beaulieu Laurier	Tout juste après les caisses, avant la sortie	1293 rue Laurier Est	Montréal	Quebec	H2J 1H2	45.6013066	-73.4453802
+804	Électrobac-Westmount Square; Cogir	À la sortie du Métro Atwater	1 Westmount Square	Westmount	Quebec	H3Z 2P9	45.5329753	-73.5846584
+805	Électrobac-Metro Groupe Messier; J.C. Messier Boucherville	Dans le vestibule d'entrée	650 boul. du Fort-Saint-Louis	Boucherville	Quebec	J4B 1S9	45.487238	-73.58772
+806	Électrobac-Pavillon EV; Concordia	Dans le passage, vers le Métro	1515 rue Sainte-Catherine Ouest	Montréal	Quebec	H3G 2W1	45.6132524	-73.4502723
+807	Électrobac-IGA Extra Bourgault &amp; Sanzone inc	Après les caisses, tout juste avant la sortie	12285 boul. Rodolphe-Forget	Montréal	Quebec	H1E 6M3	45.4953688	-73.5779964
+808	Électrobac-Hôpital général de Montréal	À l'entrée sur Avenue Cedar, à côté du kiosque de sécurité	1650 av. Cedar	Montréal	Quebec	H3G 1A4	45.6478867	-73.576862
+809	Électrobac-Complexe récréatif Gadbois; Arrondissement Sud-Ouest	À l'entrée de l'aréna	5485 ch. de la Côte-Saint-Paul	Montréal	Quebec	H4C 1X3	45.4969778	-73.5890681
+810	Électrobac-Metro Plus Fogarty Charlemagne	Après les caisses, tout juste avant la sortie	40 rue Émile-Despins	Charlemagne	Quebec	J5Z 3L6	45.46607	-73.595561
+811	Électrobac-Metro Plus Leblanc Terrebonne	Après les caisses, tout juste avant la sortie	1375 rue Grande-Allée	Terrebonne	Quebec	J6W 5M9	45.7211208	-73.4949446
+812	Électrobac-Metro Plus de la Concorde; Metro Groupe Messier	Dans le hall d'entrée, entre les portes d'entrée et de sortie	155 boul. de la Concorde Est	Laval	Quebec	H7G 2C6	45.707724	-73.6243572
+813	Électrobac-Galeries Rive-Nord; Cominar	Au kiosque d'information	100 boul. Brien	Repentigny	Quebec	J6A 5N4	45.5737906	-73.6851142
+814	Électrobac-Les Galeries Chagnon; Westcliff	Au niveau 1, près de la Caisse Desjardins	1200 boul. Alphonse-Desjardins	Lévis	Quebec	G6V 6Y8	45.742263	-73.4586568
+815	Électrobac-Université Laval; PEPS	Au sous-sol, près de l'entrée à la salle d'entrainement	2300 rue de la Terrasse	Québec	Quebec	G1V 0A6	46.7964057	-71.1717412
+816	Électrobac-Université Laval; Pavillon Alphonse-Desjardins	Au rez-de-chaussée, en face de la COOP	2325 rue de l'Université	Québec	Quebec	G1V 0A6	 None	 None
+817	Électrobac-IGA Extra des Sources Galeries Charlesbourg	Après les caisses, sur la colonne près du guichet automatique	4250 1re Avenue	Québec	Quebec	G1H 2S5	46.7792486	-71.26968
+818	Électrobac-IGA des Sources; Cap Rouge	À gauche de la porte d'entrée	3373 rue de l'Hûtrière	Québec	Quebec	G3A 0M2	46.8436409	-71.2473109
+819	Électrobac-Édifice Marie-Guyart; SQI	Au rez-de-chaussée, en face du poste de sécurité	1037 rue de La Chevrotière	Québec	Quebec	G1R 5E9	 None	 None
+820	Électrobac-Place Montréal Trust; Ivanhoé Cambridge	À côté des escaliers mécaniques, près du magasin Zara	1500 av. Mcgill College	Montréal	Quebec	H3A 3J5	46.807877	-71.2180293
+821	Électrobac-IGA Brouillette et Fils	Après les caisses, à gauche de la porte de sortie	4411 boul. de la Concorde Est	Laval	Quebec	H7C 1M4	45.5023339	-73.5722536
+822	Électrobac-Supermarché Metro Plus Collin; Brossard	Dans le vestibule d'entrée et de sortie	2004 boul. Rome	Brossard	Quebec	J4W 3M7	45.6054454	-73.6506998
+823	Électrobac-Place de la cité; Cominar	Appuyé sur une colonne, près de la fontaine dans l'aire de restauration	2600 boul. Laurier	Québec	Quebec	G1V 4T3	45.4565423	-73.467274
+824	Électrobac-Campus Ste-Hyacinthe 2; Université de Montréal	Près de l'entrée principale	1500 av. des Vétérinaires	Saint-Hyacinthe	Quebec	J2S 6N9	46.7718892	-71.2820891
+825	Électrobac-Complexe Alexis Nihon; Cominar	Niveau métro, en face du Tim Horton's	1500 av. Atwater	Montréal	Quebec	H3Z 1X5	45.6208058	-72.9650597
+826	Électrobac-2001 McGill College; Cominar	Dans le hall d'entrée de la tour à bureaux, en face du comptoir d'accueil	2001 av. McGill College	Montréal	Quebec	H3A 1G1	45.4888063	-73.5859947
+827	Électrobac-Centre Rockland; Cominar	À droite de l'escalier mécanique menant à la foire alimentaire	2305 rue Rockland	Montréal	Quebec	H3P 3E9	45.5036209	-73.5740155
+828	Électrobac-Pavillon J; Université du Québec à Montréal (UQAM)	Pavillon J: La Grande Place (niveau métro) dans l'alcôve adjacente à l'entrée du local J-M320	1400 rue Berri	Montréal	Quebec	H2L 2C4	 None	 None
+829	Électrobac-Pavillon PK; Université du Québec à Montréal (UQAM)	Pavillon PK: Dans l'alcôve du corridor PK-600, contre le mur de la salle de cours PK-R605	201 av. Président-Kennedy	Montréal	Quebec	H2X 3Y7	45.5146176	-73.5600687
+830	Électrobac-Pavillon R; Université du Québec à Montréal (UQAM)	Pavillon R: Niveau métro, dans le corridor R-M000, contre le mur nord, adjacent à la colonne avant l'accès vers le monte-charge	315 rue Sainte-Catherine Est	Montréal	Quebec	H2X 1L7	 None	 None
+831	Électrobac-Centre Laval; Cominar	Près du Greiche &amp; Scaff à côté du GAB	1600 boul. Le Corbusier	Laval	Quebec	H7S 1Z2	45.5132394	-73.5612439
+832	Électrobac-IGA Extra Saint-Janvier	Dans le vestibule de sortie	13380 boul. Curé-Labelle	Mirabel	Quebec	J7J 1G9	45.5603711	-73.7299956
+833	Électrobac-IGA Extra Famille Viau	Dans le hall de sortie	249 boul. Harwood	Vaudreuil-Dorion	Quebec	J7V 1Y3	45.6999118	-73.920002
+834	Électrobac-1600 René Lévesque; Bentall Kennedy	À l'entrée des employés, à côté du dépanneur et du poste de sécurité	1600 boul. René-Lévesque	Montréal	Quebec	H3H 1P9	45.3828948	-74.0154713
+835	Électrobac-Supermarché Metro Plus Collin; Chambly	À droite, dans le vestibule de sortie	1233 boul. de Périgny	Chambly	Quebec	J3L 1W7	45.4934673	-73.5749939
+836	Électrobac-Metro Plus Riendeau Beloeil	Dans le hall de sortie	1030 rue Saint-Jean-Baptiste	Beloeil	Quebec	J3G 0J1	45.44752	-73.28915
+837	Électrobac-Palais de justice de Montréal; SQI	À proximité de Café Vienne	1 rue Notre-Dame Est	Montréal	Quebec	H2Y 1B6	45.5793409	-73.2144299
+838	Électrobac-Planétarium Rio Tinto Alcan	Niveau 100, juste à droite de l'ascenseur	4801 Avenue Pierre-De Coubertin	Montréal	Quebec	H1V 3N4	45.5070406	-73.5562322
+839	Électrobac-IGA Alimentation Hochelaga G.S. inc.	Après les caisses, tout juste avant la sortie	7975 rue Hochelaga	Montréal	Quebec	H1L 2K9	45.5606764	-73.5505505
+840	Électrobac-Terminus Longueuil; Agence Métropolitaine de Transport (AMT)	Dans l'Aile A, près de l'accès au Métro	100 place Charles-LeMoyne	Longueuil	Quebec	J4K 2T4	45.594277	-73.524409
+841	Électrobac-Tour Bell Média; Redbourne	Dans le lobby, devant la colonne centrale	1800 av. McGill College	Montréal	Quebec	H3A 3J6	45.52489	-73.5219966
+842	Électrobac-IGA Extra Marché d'alimentation Crevier inc.	À droite de la porte de sortie	550 aut. Chomedey	Laval	Quebec	H7X 3S9	45.5019854	-73.5721975
+843	Électrobac-IGA Extra Épicerie Quintal et frères	À droite de la porte de sortie	4805 boul. Arthur-Sauvé	Laval	Quebec	H7R 3X2	 None	 None
+844	Électrobac-Hôpital Cité de la Santé Laval	À l'entrée des employés	1755 boul. René-Laennec	Laval	Quebec	H7M 3L9	45.552155	-73.867943
+845	Électrobac-IGA extra Alimentation Auteuil	À gauche de la porte de sortie	5680 boul. des Laurentides	Laval	Quebec	H7K 2K2	45.6033723	-73.7107649
+846	Électrobac-Tour KPMG; Oxford	Au rez-de-chaussée, près de l'accès au Metro	600 boul. de Maisonneuve Ouest	Montréal	Quebec	H3A 0A3	45.6280443	-73.752759
+847	Électrobac-Pavillon LB; Concordia	Dans le LB de l'immeuble, juste devant le magasin des étudiants	1400 boul. de Maisonneuve Ouest	Montréal	Quebec	H3G 1M8	45.5041009	-73.5710036
+848	Électrobac-Place Dupuis; Busac	À côté du magasin IGA	800 boul. de Maisonneuve Est	Montréal	Quebec	H2L 4L8	45.4966939	-73.5781754
+849	Électrobac-Metro Lebel Mont-Royal	Juste à côté de la porte de sortie	2275 av. Mont-Royal Est	Montréal	Quebec	H2H 1K6	45.5161422	-73.5597293
+850	Électrobac-Centre Le Boulevard; Crofton Moore	À côté de la banque RBC et de l'épicerie Metro, entrée Est	4270 rue Jean-Talon Est	Montréal	Quebec	H1S 1J7	45.5373305	-73.5708294
+851	Électrobac-Carrefour Saint-Georges; Cominar	À la station de recyclage multimatières, près du Dollorama et du comptoir de service à la clientèle	8585 boul. Lacroix	Saint-Georges	Quebec	G5Y 5L6	45.5671071	-73.5885244
+852	Électrobac-Metro Plus Fordham	Dans le vestibule d'entrée	350 rue Principale	Saint-Zotique	Quebec	J0P 1Z0	46.1338968	-70.6988585
+853	Électrobac-IGA Extra; Marche Saint-Canut inc.	À gauche, après les caisses	9600 rue Henri-Piché	Mirabel	Quebec	J7N 0T4	45.2533991	-74.2267334
+854	Électrobac-IGA extra Marché Paquette	Dans le vestibule d'entrée de l'épicerie	3925 boul. des Forges	Trois-Rivières	Quebec	G8Y 1V9	45.7032911	-74.089893
+855	Électrobac-Pavillon Ferdinand-Vandry; Université Laval	Près de la cafétéria	1050 av. de la Médecine	Québec	Quebec	G1V 0A6	46.3546751	-72.5847525
+856	Électrobac-IGA Supermarché Jean XXIII	Dans le vestibule d'entréeoeortie, à côté de la sortie.	6060 boul. Jean XXIII	Trois-Rivières	Quebec	G8Z 4B5	46.7785355	-71.2781328
+857	Électrobac-Technoparc St-Laurent; Morguard	Contre le mur en face de la cafétéria	7140 rue Albert Einstein	Montréal	Quebec	H4S 2A9	46.330947	-72.59492
+858	Électrobac-Métro Plus Dorion Ste-Catherine	À côté des distributrices à bonbons dans l'entrée	1955 rue Sainte-Catherine Est	Montréal	Quebec	H2K 2H6	45.4801133	-73.7625428
+859	Électrobac-Pavillon Alexandre-Vachon; Université Laval	Entre les deux escaliers devant l?entrée de la bibliothèque	1045 av. de la Médecine	Québec	Quebec	G1V 0A6	45.5241314	-73.5513837
+860	Électrobac-Pavillon Charles De Koninck; Université Laval	À côté des escaliers, près de la cafétéria	1030 av. des Sciences-Humaines	Québec	Quebec	G1V 0A6	46.7805482	-71.2770048
+861	Électrobac-Complexe Jules Dallaire; Cominar	Près des ascenseurs de la tour T1, au 2e étage	2820 boul. Laurier	Québec	Quebec	G1V 0C1	46.7813975	-71.275219
+862	Électrobac-IGA Extra Gladu	Dans le vestibule de sortie	400 boul. du Séminaire Nord	Saint-Jean-sur-Richelieu	Quebec	J3B 5L2	46.7677688	-71.2887587
+863	Électrobac-Les Rivières; Cominar	Dans le corridor de l'entrée principale, à gauche du Toys &laquo; R &raquo; Us	4225 boul. des Forges	Trois-Rivières	Quebec	G8Y 1W2	45.3115473	-73.2670444
+864	Électrobac-Université du Québec à Trois-Rivières (UQTR)	Dans le Pavillon Albert Tessier, près de l'entrée de la bibliothèque	3351 boul. des Forges	Trois-Rivières	Quebec	G9A 5H7	46.3562107	-72.5891327
+865	Électrobac-Centre Hospitalier Universitaire de Québec (CHUQ)	Au poste de sécurité au premier étage	2705 boul. Laurier	Québec	Quebec	G1V 4G2	46.3484049	-72.575974
+866	Électrobac-Les Promenades Beauport; Cominar	Dans l'aire de restauration	3333 rue du Carrefour	Québec	Quebec	G1C 5R9	46.7694731	-71.2827959
+867	Électrobac-Centre Claude Robillard; Ville de Montréal	À côté du comptoir central au rez-de-chaussée	1000 av. Émile Journault	Montréal	Quebec	H2M 2E7	46.8606254	-71.217647
+868	Électrobac-IGA Marché Dama inc.	Après les caisses, à gauche de la porte de sortie	10760 av. Millen	Montréal	Quebec	H2C 0A5	 None	 None
+869	Électrobac-Metro Plus Ferland Du Marais	Dans le portique, à gauche de la porte de sortie	1625 rue du Marais	Québec	Quebec	G1M 0A2	45.5566943	-73.6683339
+870	Électrobac-Metro Plus Neufchâtel	Dans le portique d'entrée, à côté de la machine de friandises	2425 boul. Bastien	Québec	Quebec	G2B 1B3	46.8163607	-71.2894152
+871	Électrobac-Metro Plus Charlesbourg	Après les caisses, à gauche de la porte de sortie	8500 boul. Henri-Bourassa	Québec	Quebec	G1G 5X1	46.856667	-71.3393276
+872	Électrobac-Fleur de Lys Centre Commercial; 20 Vic	Près de l'entrée #3	552 boul. Wilfrid-Hamel	Québec	Quebec	G1M 3E5	46.8666916	-71.2699484
+873	Électrobac-Fleur de Lys Centre Commercial 2; 20 Vic	Près de l'entrée #9, dans la foire alimentaire	552 boul. Wilfrid-Hamel	Québec	Quebec	G1M 3E5	46.8224361	-71.2518926
+874	Électrobac-Centre hospitalier universitaire de Sherbrooke	Au sous-sol proche de l'entrée à côté de la cafeteria	3001 12e Avenue Nord	Sherbrooke	Quebec	J1H 5N4	46.8224361	-71.2518926
+875	Électrobac-IGA Extra Couture	Dans le vestibule d'entréeoeortie	2240 rue King Est	Sherbrooke	Quebec	J1G 5G8	45.4469127	-71.8685197
+876	Électrobac-IGA Extra; Marché Gazaille	Dans le vestibule, juste avant la sortie	301 rue Denison Est	Granby	Quebec	J2H 2R6	 None	 None
+877	Électrobac-Metro Sagamie Jonquière	Dans le vestibule d'entrée et de sortie	2655 boul. Du Royaume	Saguenay	Quebec	G7S 4S9	45.3946177	-72.7043031
+878	Électrobac-Air Canada	À l'entrée principale des employés du bâtiment numéro 2	7373 boul. de la Côte-Vertu Ouest	Dorval	Quebec	H4S 1Z3	48.4037789	-71.169119
+879	Électrobac-IGA Extra; Alimentation Yvon Haché		1324 boul. Talbot	Saguenay	Quebec	G7H 4B8	45.4696804	-73.7380418
+880	Électrobac-Metro Plus; Alimentation Lebel inc.	Tout juste après les caisses	615 1re rue Poiré	La Pocatière	Quebec	G0R 1Z0	48.4068517	-71.0583419
+881	Électrobac-Provigo Alimentation Plamondon inc.	Tout juste après les caisses	260 rue Saint-Cyrille	Saint-Raymond	Quebec	G3L 5B6	47.3644264	-70.0375125
+882	Électrobac-IGA Extra St-Georges de Beauce	Dans le hall d'entrée et de sortie	8980 boul. Lacroix	Saint-Georges	Quebec	G5Y 5E2	46.8891366	-71.8329933
+883	Électrobac-IGA Extra King Ouest	Sur la colonne, à droite de la porte de sortie	3950 rue King Ouest	Sherbrooke	Quebec	J1L 1P6	46.1297371	-70.6955601
+884	Électrobac-IGA Extra Chouinard et fils inc	Dans le vestibule d'entrée	10505 boul. Sainte-Anne	Sainte-Anne-de-Beaupré	Quebec	G0A 3C0	45.3879477	-71.9576078
+885	Électrobac-IGA Supermarché Pépin		1015 rue des Lilas	Saint-Chrysostome	Quebec	G6Z 3K4	47.0285495	-70.9154723
+886	Électrobac-Metro Plus Marquis L'Assomption	Dans le vestibule d'entréeoeortie	790 montée de Saint-Sulpice	Saint-Sulpice	Quebec	G5W 0M6	46.7239821	-71.204796
+887	Électrobac-IGA Extra Chaumont et Bilodeau	Dans le vestibule d'entrée	1005 boul. du Grand Héron	Saint-Jérôme	Quebec	J7Y 3P2	45.8344341	-73.4107227
+888	Électrobac-IGA Extra Marché Bélanger	Dans le vestibule de sortie	680 av. Chaussé	Rouyn-Noranda	Quebec	J9X 4B9	45.7609788	-74.0152618
+889	Électrobac-Site Glen; Centre universitaire de santé McGill (CUSM)	À l'entrée Hôpital Royal Victoria du Site Glen, à gauche de la station de recyclage pour papier et plastiques	1001 boul. Décarie	Montréal	Quebec	H4A 3J1	48.2253883	-79.0071946
+890	Électrobac-Metro Plus Coop D'Asbestos	À l'entrée de l'épicerie donnant accès au centre d'achat, près de la boîte aux lettres	511 1re Avenue	Asbestos	Quebec	J1T 3P6	45.4733308	-73.6008526
+891	Électrobac-Place Youville; Société de transport de Montréal (STM)	Dans la section des locaux situés au coin St-Laurent et Crémazie, au rez-de-chaussé	8845 boul. Saint-Laurent	Montréal	Quebec	H2N 1M3	45.7712446	-71.9282782
+892	Électrobac-Les Promenades Drummondville; Westcliff	À l'entrée #2, à côté de la machine à photos	755 boul. René-Lévesque	Drummondville	Quebec	J2C 6Y7	45.54303	-73.642987
+893	Électrobac-Galeries Lac St-Jean; Immostar	Dans l'aire commune, près du Dollorama	1055 av. du Pont Sud	Alma	Quebec	G8B 6V6	 None	 None
+894	Électrobac-Promenades du St-Laurent; Immostar	À l'entrée Ouest, contre le mur du Maxi	597 av. du Phare Est	Matane	Quebec	G4W 4L6	48.533988	-71.6465743
+895	Électrobac-Carrefour Rimouski; Cominar	À l'entrée #3, contre le mur du Canadian Tire	419 boul. Jessop	Rimouski	Quebec	G5L 7Y5	48.8515507	-67.5077439
+896	Électrobac-Mail Montenach; Cominar	À côté du kiosque d'information et du magasin La vie en Rose	600 boul. Sir-Wilfrid-Laurier	Beloeil	Quebec	J3G 4J2	48.4676719	-68.5125216
+897	Électrobac-Les Galeries de Hull; Cominar	À l'entrée se situant à côté du comptoir de service à la clientèle	320 boul. Saint-Joseph	Gatineau	Quebec	J8Y 3Y8	45.5628541	-73.2092929
+898	Électrobac-Place Vertu 1; 20 Vic	À l'entrée de l'immeuble à bureaux, sur le mur à droite du boyau d'incendie	3131 boul. de la Côte-Vertu	Montréal	Quebec	H4R 1Y8	45.4417168	-75.7320389
+899	Électrobac-Place Vertu 2; 20 Vic	À l'entrée #2, au dos du présentoir d'information	3131 boul. de la Côte-Vertu	Montréal	Quebec	H4R 1Y8	45.4984074	-73.7069559
+900	Électrobac-Carrefour Richelieu; Westcliff	À l'entrée #4, à côté du photomaton	600 rue Pierre-Caisse	Saint-Jean-sur-Richelieu	Quebec	J3A 1M1	45.4984074	-73.7069559
+901	Électrobac-Carrefour du Nord-Ouest	Contre le mur, à l'entrée du couloir menant aux toilettes, à côté du Sports Experts	1801 3e Avenue	Val-d'Or	Quebec	J9P 5K1	45.3298502	-73.2812032
+902	Électrobac-Metro Plus Ste-Agathe	Tout juste après les caisses	1050 rue Principale Est	Sainte-Agathe-des-Monts	Quebec	J8C 1L6	 None	 None
+903	Électrobac-Université de Sherbrooke; Campus Sherbrooke	Au Pavillon multifonctionnel (B5), face à l?ascenseur du niveau 0 (étage des tunnels) et près du Centre de gestion des déplacements	2500 boul. de l'Université	Sherbrooke	Quebec	J1K 2R1	46.0442032	-74.264693
+904	Électrobac-Centre commercial Rivière-du-Loup; Cominar	Contre le mur du Dollorama, tout près du Super C	298 boul. Armand-Thériault	Rivière-du-Loup	Quebec	G5R 4C2	45.3795458	-71.9308537
+905	Électrobac-IGA Extra Rivière-du-Loup	Tout juste après les caisses	254 rue Hôtel-De-Ville	Rivière-du-Loup	Quebec	G5R 1M4	 None	 None
+906	Électrobac-IGA Marché Marc Desbiens	Dans le vestibule d'entréeoeortie	1199 boul. Saint-Félicien	Saint-Félicien	Quebec	G8K 3J1	47.8253531	-69.554227
+907	Électrobac-Supermarché PA	Dans le vestibule d'entrée et de sortie	5029 av. du Parc	Montréal	Quebec	H2V 4E9	48.6549809	-72.4604535
+908	Électrobac-Metro Plus; Alimentation Claude Bisson	À gauche des chaises devant le bureau du gérant de service	2070 boul. Lemire	Drummondville	Quebec	J2B 6X5	 None	 None
+909	Électrobac-IGA Extra; Marché Gaouette inc.	Près des paniers, à côté des distributeurs de boissons gazeuses	40 rue Évangéline	Granby	Quebec	J2G 8K1	45.8648207	-72.4969868
+910	Électrobac-IGA Extra Famille Charles;  IGA Famille Charles	Dans le vestibule en sortant	455 boul. Gréber	Gatineau	Quebec	J8T 5T7	 None	 None
+911	Électrobac-IGA extra Alimentation Christian et Ginette St-Jacques	Dans le vestibule d'entrée et de sortie	720 montée Paiement	Gatineau	Quebec	J8R 2S8	45.4868958	-75.7012674
+912	Électrobac-Place du Centre; Westcliff	À côté du kiosque d'information et du Dollard ou Deux	200 promenade du Portage	Gatineau	Quebec	J8X 4B7	45.5042354	-75.6752545
+913	Électrobac-IGA extra Famille Plante	Après les caisses, juste avant la sortie	1130 boul. St-Joseph	Gatineau	Quebec	J8Z 1T3	45.4268934	-75.7134941
+914	Électrobac-IGA Extra des Grives	Dans le vestibule d'entrée	203 boul. des Grives	Gatineau	Quebec	J9A 0C7	45.4724177	-75.7378533
+915	Électrobac-IGA Famille Charles; IGA Famille Charles	Après les caisses, à côté du distributeur à eau	1716 route 105	Chelsea	Quebec	J9B 1P4	 None	 None
+916	Électrobac-Centre hospitalier régional De Lanaudière	Dans le couloir menant à la cafétéria	1000 boul. Sainte-Anne	Saint-Charles-Borromée	Quebec	J6E 6J2	45.598658	-75.8986898
+917	Électrobac-IGA Extra Chapdelaine	Tout juste après les caisses, avant la sortie	775 rue Galt Ouest	Sherbrooke	Quebec	J1H 1Z1	 None	 None
+918	Écocentre de Boischatel		345 rue des Saphirs	Boischatel	Quebec	G0H 1H0	 None	 None
+919	Recyclo-Centre		165 av. de l'Hôtel-Dieu	Sorel-Tracy	Quebec	J3P 7L4	46.915442	-71.158967
+920	Électrobac-Bureau de la Mairie; Rosemont-La Petite-Patrie	Près de la réception et du poste de recyclage	5650 rue Iberville	Montréal	Quebec	H2G 2B3	46.0435501	-73.1075123
+921	Électrobac-SSQ; Longueuil	Dans le hall d'entrée	1225 rue Saint-Charles Ouest	Longueuil	Quebec	J4K 1A7	45.544332	-73.581674
+922	Électrobac-425 boul. Maisonneuve ouest	À l'entrée, près du poste de sécurité.	425 boul. Maisonneuve ouest	Montréal	Quebec	H3A 3G5	 None	 None
+923	Électrobac-IGA Alimentation Pointe-aux-Trembles G.S. inc	À gauche de la porte de sortie du IGA	13155 rue Sherbrooke Est	Montréal	Quebec	H1A 1B9	45.5061354	-73.570124
+924	Électrobac-2525 boul. Laurier; SSQ Groupe Financier	En face de l'accueil de l'édifice du MSP et de SSQ.	2525 boul. Laurier	Québec	Quebec	G1V 2L2	 None	 None
+925	Électrobac-Marché de l'ouest	À l'entrée 3.	11600 boul. de Salaberry	Dollard-Des Ormeaux	Quebec	H9B 2R8	46.7723083	-71.2764285
+926	Électrobac-CHUSJ	Près de la boîte de distribution du Devoir, à côté du couloir vers la cafétéria.	3175 ch. De la Côte-Sainte-Catherine	Montréal	Quebec	H3T 1C5	 None	 None
+927	Électrobac-Gare du Palais	Au premier étage de la tour sud, près du poste de sécurité.	450 rue de la Gare du Palais	Québec	Quebec	G1K 3X2	45.5032186	-73.6239156
+928	Électrobac-Centre Aquatique Pointe-Claire	À l'entrée principale du centre aquatique	60 av. Maywood	Montréal	Quebec	H9R 0A7	46.8174679	-71.2140984
+929	Électrobac-Centre des loisirs; Arrondissement St-Laurent	Situé dans le hall principal. à côté de l'entrée principale, près du comptoir de gardien de sécurité.	1375 rue Grenet	Montréal	Quebec	H4L 5K3	45.4501878	-73.8141535
+930	Électrobac-Collège Maisonneuve 2	Proche du comptoir du magasin TGÉ (P315)	6220 rue Sherbrooke Est	Montréal	Quebec	H1N 1C1	45.5143342	-73.6909283
+931	Électrobac-Metro Victoriaville	À la sortie des caisses près de l'armoir à glace.	435 boul. Jutras Est	Victoriaville	Quebec	G6P 7H4	45.5786036	-73.5447863
+932	Électrobac-Centre Sportif Terrebonne	Situé aux portes 11-12, donnant accès à la Cité du Sport et Centre Aquatiue de la ville de Terrebonne	2485 boul. des Entreprises	Terrebonne	Quebec	J6X 4J9	 None	 None
+933	Électrobac-Place du portage 2	Portage II près de la passerelle en face des escaliers roulants	50 rue Victoria	Gatineau	Quebec	J8X 3X1	45.7204145	-73.7071294
+934	Électrobac-1100 René-Lévesque; Oxford Properties	Situé au rez-de-chaussée de l?immeuble.	1100 boul. René-Lévesque O	Montréal	Quebec	H3C 5H5	45.4284254	-75.7128606
+935	Électrobac-1250 René-Lévesque; Oxford Properties	Au niveau Mezzanine près de la foire alimentaire.	1250 boul. René-Lévesque O	Montréal	Quebec	H3B 4W8	 None	 None
+936	Électrobac-Place du portage 4	Niveau 1 près du bureau de la sécurité	9 rue Laurier	Gatineau	Quebec	J8X 3X5	45.4971878	-73.5704708
+937	Électrobac-Carrefour du Nord; Westcliff	Entre le kiosque de Virgin mobile et Koodo	900 boul. Grignon	Saint-Jérôme	Quebec	J7Y 3S7	45.4250016	-75.7155083
+938	Électrobac-Place Longueuil; Cominar	Près du kisoque d'information.	825 rue Saint-Laurent Ouest	Longueuil	Quebec	J4K 2V1	45.7940071	-74.0178793
+939	Électrobac-Alcoa Deschambeault	À l'entrée principale	1 boul. des Sources	Deschambault-Grondines	Quebec	G0A 1S0	45.528629	-73.5154914
+940	Électrobac-IGA Extra Famille Jean Martin	À gauche de la valideuse de loterie, face à la courtoisie.	1430 boul. Saint-Antoine	Saint-Jérôme	Quebec	J7Z 7M2	46.6936989	-71.946258
+941	Électrobac-Ministère de l'Emploi et de la Solidarité Sociale (MESS)	Près de l'entrée principale, à droite de la poubelle située en face du dépanneur de l'immeuble	425 rue Saint-Amable	Québec	Quebec	G1R 4Z1	 None	 None
+942	Électrobac-École de Technologie Supérieure (ÉTS); Pavillon Maison des étudiants	Dans le hall d'entrée, au rez-de-chaussée, près des escaliers mobiles	1220 rue Notre-Dame Ouest	Montréal	Quebec	H3C 1K5	46.8061014	-71.2198508
+943	Électrobac-Centre communautaire de l'Épiphanie	À l'entrée du centre communautaire, près du comptoir d'accueil	68 rue Amireault	L'Épiphanie	Quebec	J5X 2S7	45.493704	-73.563767
+944	Écocentre Pikogan		2552 rte 109 Nord	Pikogan	Quebec	J9T 3A3	45.8518321	-73.48464
