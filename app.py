@@ -8,13 +8,10 @@ from watson_developer_cloud import VisualRecognitionV3, WatsonApiException
 import geocoder
 
 app = Flask(__name__)
-
-visual_recognition = VisualRecognitionV3('2016-05-20', api_key='fd4da8fef4a085a68316075de318b7183d8cc9ad')
-
+visual_recognition = VisualRecognitionV3('2018-03-19', api_key='fd4da8fef4a085a68316075de318b7183d8cc9ad')
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:pass@127.0.0.1:3306/recycle'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
-
 
 class electronics(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -39,16 +36,14 @@ class electronics(db.Model):
             'postalCode': self.postalCode
         }
 
-
 @app.route('/')
 def hello_world():
     return 'Hello, World!'
 
-
 @app.route("/api", methods=['POST'])
 def query():
     if request.method == 'POST':
-        rec_type = randint(0, 2)
+        rec_type = what_is_that(request.files['file'])
         if request.args.get('test'):
             rec_type = int(request.args['test'])
 
@@ -68,12 +63,25 @@ def query():
         elif rec_type == 2:
             return get_elec(request.form.get('geo'))
         else:
-            abort(500)
+            return str(what_is_that(request.files['file']))
+            # abort(500)
 
 
 def what_is_that(pic):
     # visual_recognition
-    return 'idk'
+    res = visual_recognition.classify(pic)
+    stuff = [x['class'] for x in res['images'][0]['classifiers'][0]['classes']]
+    print(stuff)
+    
+    bac = set(['bottle', 'can'])
+    electric = set(['electronics'])
+
+    if bac.intersection(set(stuff)):
+        return 0
+    elif electric.intersection(set(stuff)):
+        return 2
+    else:
+        return 1
 
 
 def get_elec(data):
@@ -92,7 +100,6 @@ def get_elec(data):
         })
     else:
         g = geocoder.google(data)
-        print(g.postal)
         clean = g.postal.replace(" ", "")
         res = electronics.query.filter(
             electronics.postalCode.contains(' '.join([clean[i:i + 3] for i in range(0, len(clean), 3)]).strip())).all()
@@ -103,7 +110,6 @@ def get_elec(data):
                 for item in res
             ]
         })
-
 
 def get_bac(data):
     isPostal = re.search('[a-zA-Z]', data)
@@ -120,7 +126,6 @@ def get_bac(data):
         js = json.load(f)
     # construct point based on lon/lat returned by geocoder
     # -73.562253, 45.495579
-    print(str(lat) + " " + str(lon))
     point = Point(lat, lon)
     # check each polygon to see if it contains the point
     for feature in js['features']:
@@ -136,7 +141,6 @@ def get_bac(data):
         'frequence': 'NONE',
         'info': 'NONE'
     })
-
 
 def get_garbage(data):
     isPostal = re.search('[a-zA-Z]', data)
@@ -169,7 +173,5 @@ def get_garbage(data):
         'info': 'NONE'
     })
 
-
-
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
