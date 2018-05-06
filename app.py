@@ -61,7 +61,7 @@ def query():
             except ValueError:
                 return "need valid lat-lon in geo"
         elif rec_type == 2:
-            return get_elec(request.form.get('geo'))
+            return get_electric(request.form.get('geo'))
         else:
             return str(what_is_that(request.files['file']))
             # abort(500)
@@ -88,7 +88,7 @@ def what_is_that(pic):
         abort(500)
 
 
-def get_elec(data):
+def get_electric(data):
     is_postal = re.search('[a-zA-Z]', data)
     if is_postal:
         # give lat and lon
