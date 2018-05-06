@@ -2,7 +2,6 @@ import json
 import re
 from flask import Flask, jsonify, request, abort
 from flask_sqlalchemy import SQLAlchemy
-from random import randint
 from shapely.geometry import shape, Point
 from watson_developer_cloud import VisualRecognitionV3, WatsonApiException
 import geocoder
@@ -13,7 +12,8 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:pass@127.0.0.1:3306/recycl
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
-class electronics(db.Model):
+
+class Electronics(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String, unique=False, nullable=True)
     notes = db.Column(db.String, unique=False, nullable=True)
@@ -36,9 +36,11 @@ class electronics(db.Model):
             'postalCode': self.postalCode
         }
 
+
 @app.route('/')
 def hello_world():
     return 'Hello, World!'
+
 
 @app.route("/api", methods=['POST'])
 def query():
@@ -46,7 +48,6 @@ def query():
         rec_type = what_is_that(request.files['file'])
         if request.args.get('test'):
             rec_type = int(request.args['test'])
-
         if rec_type == 0:
             try:
 
@@ -54,7 +55,6 @@ def query():
                 return get_bac(request.form.get('geo'))
             except ValueError:
                 return "need valid lat-lon in geo"
-
         elif rec_type == 1:
             try:
                 return get_garbage(request.form.get('geo'))
@@ -69,28 +69,32 @@ def query():
 
 def what_is_that(pic):
     # visual_recognition
-    res = visual_recognition.classify(pic)
-    stuff = [x['class'] for x in res['images'][0]['classifiers'][0]['classes']]
-    print(stuff)
-    
-    bac = set(['bottle', 'can'])
-    electric = set(['electronics'])
+    try:
+        res = visual_recognition.classify(pic)
+        stuff = [x['class'] for x in res['images'][0]['classifiers'][0]['classes']]
+        print(stuff)
 
-    if bac.intersection(set(stuff)):
-        return 0
-    elif electric.intersection(set(stuff)):
-        return 2
-    else:
-        return 1
+        bac = {'bottle', 'can', 'soft drink'}
+        electric = {'electronics', 'computer', 'computer keyboard', 'keyboard', 'electronic device', 'computer mouse',
+                    'electronic equipment'}
+
+        if bac.intersection(set(stuff)):
+            return 0
+        elif electric.intersection(set(stuff)):
+            return 2
+        else:
+            return 1
+    except WatsonApiException:
+        abort(500)
 
 
 def get_elec(data):
-    isPostal = re.search('[a-zA-Z]', data)
-    if isPostal:
+    is_postal = re.search('[a-zA-Z]', data)
+    if is_postal:
         # give lat and lon
         clean = data.replace(" ", "")
-        res = electronics.query.filter(
-            electronics.postalCode.contains(' '.join([clean[i:i + 3] for i in range(0, len(clean), 3)]).strip())).all()
+        res = Electronics.query.filter(
+            Electronics.postalCode.contains(' '.join([clean[i:i + 3] for i in range(0, len(clean), 3)]).strip())).all()
         return jsonify({
             'type': 'Electronic',
             'NearestDropOff': [
@@ -101,8 +105,8 @@ def get_elec(data):
     else:
         g = geocoder.google(data)
         clean = g.postal.replace(" ", "")
-        res = electronics.query.filter(
-            electronics.postalCode.contains(' '.join([clean[i:i + 3] for i in range(0, len(clean), 3)]).strip())).all()
+        res = Electronics.query.filter(
+            Electronics.postalCode.contains(' '.join([clean[i:i + 3] for i in range(0, len(clean), 3)]).strip())).all()
         return jsonify({
             'type': 'Electronic',
             'NearestDropOff': [
@@ -111,9 +115,10 @@ def get_elec(data):
             ]
         })
 
+
 def get_bac(data):
-    isPostal = re.search('[a-zA-Z]', data)
-    if isPostal:
+    is_postal = re.search('[a-zA-Z]', data)
+    if is_postal:
         g = geocoder.google(data)
         lon, lat = g.latlng
         lat = float(lat)
@@ -142,9 +147,10 @@ def get_bac(data):
         'info': 'NONE'
     })
 
+
 def get_garbage(data):
-    isPostal = re.search('[a-zA-Z]', data)
-    if isPostal:
+    is_postal = re.search('[a-zA-Z]', data)
+    if is_postal:
         g = geocoder.google(data)
         lon, lat = g.latlng
         lat = float(lat)
@@ -172,6 +178,7 @@ def get_garbage(data):
         'frequence': 'NONE',
         'info': 'NONE'
     })
+
 
 if __name__ == '__main__':
     app.run(debug=True)
